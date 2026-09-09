@@ -1,14 +1,14 @@
 ---
-title: "Biocalcification Potential of Arthrospira platensis for Sand Solidification: A Preliminary Study for Assessing Geotechnical Applicability"
+title: "Biocalcification Potential of Arthrospira platensis for Sand Solidification: Mechanical, Hydraulic and Microstructural Assessment"
 collection: publications
-category: manuscripts
+category: under_review
 permalink: /publication/2024-biocalcification-arthrospira
-excerpt: 'This study investigates the bio-cementation capability of Arthrospira platensis in sand solidification and its geotechnical applicability.'
+excerpt: 'Ottawa sand treated by surface percolation with equimolar CaCl2 and urea at five concentrations, assessed by permeability, direct shear and ultrasonic pulse velocity, with SEM-EDS confirmation of the calcite bonding.'
 date: 2024-12-01
-venue: 'Heliyon (Under Review)'
-citation: 'Rahman, M. S., <b>Hasnat, N.</b>, &amp; Nahid, M. H. (2024). &quot;Biocalcification Potential of Arthrospira platensis for Sand Solidification: A Preliminary Study for Assessing Geotechnical Applicability.&quot; <i>Heliyon</i>, Manuscript under review, HELIYON-D-24-67091.'
+venue: 'Under review, Heliyon'
+citation: '<b>Hasnat, N.</b>, Rahman, M. S., &amp; Nahid, M. H. &quot;Biocalcification Potential of Arthrospira platensis for Sand Solidification: Mechanical, Hydraulic and Microstructural Assessment.&quot; Under review, <i>Heliyon</i>.'
 ---
 
-This preliminary study assesses the biocalcification potential of *Arthrospira platensis* for sand solidification. The research investigates the mechanical and hydraulic performance of bio-cemented sand and identifies its bonding mechanism and chemical makeup through SEM-EDS tests.
+Ottawa sand was treated by surface percolation with equimolar calcium chloride and urea at five concentrations from 0.20 to 1.00 M. The response was measured by constant-head permeability, direct shear at 140–560 kPa, and ultrasonic pulse velocity. Permeability fell 71.9% at 1.00 M and shear strength peaked at 0.60 M, with c = 81.4 kPa and φ = 40.4°. SEM-EDS confirmed the calcite bonding mechanism and composition.
 
-**Status:** Under review at *Heliyon*.
+This was my undergraduate thesis. **Status:** under review at *Heliyon*.
