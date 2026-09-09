@@ -48,8 +48,6 @@ I've been teaching at Leading University since the end of 2024, first as an adju
 
 </div>
 
-[[CONFIRM: Quantity Surveying and Geotechnical Engineering Sessional were on the site but not the CV — removed here pending confirmation (Q9)]]
-
 ---
 
 ## Previous Position
@@ -94,6 +92,3 @@ I've been teaching at Leading University since the end of 2024, first as an adju
 
 I'm currently supervising two B.Sc. students on the laboratory testing and finite element modelling for the [zeolite and cellulose fiber project](/research-projects/zeolite-cellulose/).
 
-## Curriculum and Assessment
-
-Syllabus design, review and moderation; question preparation and exam moderation.
