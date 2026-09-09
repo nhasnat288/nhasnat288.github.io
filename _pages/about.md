@@ -19,10 +19,10 @@ The two lines ask the same question from opposite ends — whether a description
 
 ## Research Interests
 
-<ul>Physics-Informed & Bayesian Machine Learning<ul>
-<ul>Uncertainty Quantification & Surrogate Modeling<ul>
-<ul> Geohazard Assessment and Mitigation<ul>
-<ul>Soil Stabilization & Ground Improvement<ul>
+- Physics-Informed & Bayesian Machine Learning
+- Uncertainty Quantification & Surrogate Modeling
+- Geohazard Assessment and Mitigation
+- Soil Stabilization & Ground Improvement
 
 ## Selected Work
 
