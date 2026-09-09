@@ -40,22 +40,3 @@ Flood-control embankments along haor wetlands in Tahirpur, Sunamganj (northeaste
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/research-projects/909fafed-9c41-4920-92fa-b900fcebd6ad-1785843459501_image.png" alt="Desiccation cracking reduction results" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
   <p style="font-size: 0.85em; color: #666; margin-top: 8px;"><em>Figure 3: Desiccation cracking metrics — crack volume and surface crack area reduction with progressive additive incorporation.</em></p>
-</div>
-
----
-
-## My Contributions
-
-- Collected field samples from Tahirpur, Sunamganj and performed full geotechnical characterisation (Atterberg limits, compaction, CBR, UCS, consolidation).
-- Designed and executed the three-stage sequential optimisation protocol (WPF → FA → Lime) across multiple dosage levels.
-- Quantified desiccation cracking through ImageJ binary-image processing and Agisoft Metashape DEM analysis for volumetric crack assessment.
-
----
-
-## Publications
-
-1. Hasnat, N., et al. "Remediation of Desiccation-Ridden Embankment Soil Using Waste Plastic Fiber, Fly Ash, and Lime." *Manuscript in preparation*, 2026. [[CONFIRM: status and target journal]]
-
----
-
-**Status:** Manuscript in preparation
