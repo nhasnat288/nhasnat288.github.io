@@ -9,57 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+[Download my CV (PDF)](/files/Nabid_Hasnat_CV.pdf){: .btn .btn--primary}
 
-* **B.Sc. in Civil and Environmental Engineering**, Shahjalal University of Science and Technology (SUST), Bangladesh, 2024
-  * GPA: 3.76 / 4.00
+*Last updated: [[CONFIRM: month and year]]*
 
-## Professional Experience
+---
 
-* **Lecturer** (October 2025 -- Present)
-  * Department of Civil Engineering, Leading University, Bangladesh
-  * Teaching: Geotechnical Engineering, Design of Steel Structure, Groundwater Engineering
-  * Research: Slope hazard assessment using FEM; sand pile stabilization analysis
+## In short
 
-* **Adjunct Lecturer** (November 2024 -- October 2025)
-  * Department of Civil Engineering, Leading University, Bangladesh
-  * Teaching: Engineering Materials, Mechanics of Solids, Ecology
+**Lecturer**, Department of Civil Engineering, Leading University, Sylhet — October 2025 to present. Adjunct Lecturer at the same department from November 2024.
 
-* **Research and Technical Assistant** (June 2022 -- August 2024)
-  * Department of Civil and Environmental Engineering, SUST, Bangladesh
-  * Bio-cementation of sand using *Arthrospira platensis*
-  * Fiber-chemical additive inclusion to reduce desiccation cracking
-  * Glass waste replacement of sand with fly ash stabilization
-  * Chemical stabilization of silty clay using lime, rice husk ash, and eggshell dust
+**Research and Technical Assistant**, Department of Civil and Environmental Engineering, SUST — June 2022 to August 2024.
 
-## Research Interests
+**B.Sc. in Civil and Environmental Engineering**, Shahjalal University of Science and Technology, 2024. CGPA 3.76/4.00, with distinction. Thesis: *Biocalcification Potential of Arthrospira platensis for Sand Solidification*, supervised by Dr. Mohammad Shahidur Rahman.
 
-Soil Stabilization, Geohazard Mitigation, Soil Remediation, Bio-geotechnics
+Two peer-reviewed journal articles, two manuscripts under review, three conference papers, one manuscript in preparation, and one grant proposal under review as Principal Investigator.
+
+---
 
 ## Technical Skills
 
-* **Geotechnical Analysis:** Plaxis 2D, Plaxis 3D
-* **CAD Software:** Autodesk AutoCAD, ETABS, SketchUp
-* **Programming:** C++, Python, MATLAB
-* **Hydrological Design:** SWMM, EPANET, MODFLOW
-* **Image Analysis:** Agisoft Metashape, ImageJ
-* **Specialized Lab Setup:** Experienced in designing and actualizing experimental setups
+**Machine learning** — Bayesian neural networks, physics-informed neural networks, monotonicity-constrained architectures, transfer learning; LightGBM, XGBoost, CatBoost, random forest, ANN; symbolic regression by genetic programming; SHAP; Bayesian uncertainty quantification.
 
-## Publications
+**Numerical modeling** — PLAXIS 2D and 3D; PLAXIS Python remote-scripting API for large automated FEM campaigns; shear-strength-reduction (ΣMsf) analysis.
 
-<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Programming** — Python (NumPy, pandas, scikit-learn, PyTorch, SHAP, Matplotlib), MATLAB, C++, Git, LaTeX.
 
-## Teaching
+**Laboratory testing** — Direct shear, unconfined compression, constant-head permeability, consolidation, compaction, Atterberg limits, ultrasonic pulse velocity.
 
-<ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Apparatus design** — Design, assembly and commissioning of custom test setups for non-standard test programmes.
 
-## Service and Extracurricular Activities
+**Characterization and imaging** — SEM-EDS, calcium carbonate content determination, ImageJ, Agisoft Metashape photogrammetry, QGIS.
 
-* **Assistant General Secretary**, Association of Civil and Environmental Engineering, SUST (2023--24)
-* **Assistant IT Secretary**, Association of Civil and Environmental Engineering, SUST (2022--23)
-* **Volunteer**, 2022 Safe Water Project in Sylhet and Gowainghat Area (2021--22)
-* **Volunteer**, Survey on Plastic Waste Generation in Sylhet by ESDO (2020--21)
+---
+
+## Grants and Funded Research
+
+**Principal Investigator** — Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil. CRISP, Leading University, 2026. Proposal under review.
+
+**Research and Technical Assistant** — Contributed to proposal preparation and carried out the experimental programme on four funded SUST Research Centre projects: AS/2023/1/19, AS/2023/1/16 (2023–24); AS/2022/1/13, AS/2022/1/24 (2022–23). [[CONFIRM: grant IDs — earlier documents list AS/2022/1/24 and AS/2023/1/19 inconsistently]]
+
+---
+
+## Professional Development and Service
+
+**Training** — Applications of Drone Technology in Civil Engineering, 12 h, Institution of Engineers Bangladesh (2026) [[CONFIRM: this date reads as future-dated in some versions of the CV]]; Design of RCC Structures to BNBC 2020, 72 h, Public Works Department, Bangladesh (2024).
+
+**Service** — Assistant General Secretary (2023–24) and Assistant IT Secretary (2022–23), Association of Civil and Environmental Engineering, SUST.
+
+**Volunteer** — 2022 Safe Water Project, Sylhet and Gowainghat (2021–22); Survey on Plastic Waste Generation in Sylhet, ESDO (2020–21).
+
+---
+
+Full publication list on the [publications page](/publications/). Research projects are described in more detail [here](/research-projects/).
