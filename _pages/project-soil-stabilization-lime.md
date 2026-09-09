@@ -5,7 +5,7 @@ permalink: /research-projects/soil-stabilization-lime/
 author_profile: true
 ---
 
-[← Back to Research Projects](/n.hasnat_ce/research-projects/)
+[← Back to Research Projects](/research-projects/)
 
 ---
 
@@ -15,7 +15,7 @@ Weak near-surface soils at the site of a proposed three-storey residential build
 
 Additive percentages were optimised in three sequential stages, each targeting minimisation of the plasticity index, and the resulting mixtures were characterised by Atterberg limit, modified Proctor compaction, unconfined compressive strength, and scanning electron microscopy tests. The optimum blend of 4% lime, 10% RHA, and 3% ESP reduced the plasticity index by 58.6% and the maximum dry density by 7%, while raising the optimum moisture content by 13.1% and the unconfined compressive strength by 103.3%. SEM imaging showed enhanced flocculation and fewer voids in the treated matrix.
 
-**Research Period:** 2025 – Present &nbsp;|&nbsp; **Status:** Manuscript in Preparation
+**Research Period:** [[CONFIRM: project period — card says 2022–2023, page previously said 2025–Present]] &nbsp;|&nbsp; **Status:** Manuscript under review at *Results in Materials*
 
 ---
 
@@ -49,12 +49,13 @@ Additive percentages were optimised in three sequential stages, each targeting m
 
 ## My Contributions
 
-- Designed and conducted the full experimental programme: Atterberg limits, modified Proctor compaction, unconfined compressive strength, and SEM characterisation across all treatment combinations
-- Developed the three-stage sequential optimisation methodology targeting plasticity index minimisation at each stage
-- Performed all data analysis, interpretation of compaction–strength trade-offs, and SEM-based microstructural assessment
+- Ran the experimental programme across the treatment combinations: Atterberg limits, modified Proctor compaction, unconfined compressive strength, and SEM sample preparation.
+- Worked out the optimum additive proportions stage by stage, holding each previous optimum fixed.
+- Examined the fabric change under SEM and interpreted the compaction–strength trade-off.
+- Contributed to the manuscript.
 
 ---
 
 ## Publications
 
-1. **Hasnat, N.** (2026). "Ternary Stabilisation of Silty Subsoil Using Lime, Rice Husk Ash, and Eggshell Powder." *(Manuscript in Preparation)*
+1. Islam, S., Chowdhury, A. S., **Hasnat, N.**, Islam, J., Munna, G. M., Jarin, S., & Ufran, S. "Stabilization of Silty Soil Using a Blend of Lime, Rice Husk Ash, and Eggshell Powder." Under review, *Results in Materials*.
