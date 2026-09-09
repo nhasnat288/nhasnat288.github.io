@@ -1,7 +1,13 @@
 # Navigation links for the header of the website.
 
 main:
-  - title: "Research Projects"
+  - title: "About"
+    url: /
+  - title: "Research"
     url: /research-projects/
-  - title: "Teaching Experience"
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
     url: /teaching-experience/
+  - title: "CV"
+    url: /cv/
