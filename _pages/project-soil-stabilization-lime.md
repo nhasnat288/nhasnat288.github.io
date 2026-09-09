@@ -42,20 +42,3 @@ Additive percentages were optimised in three sequential stages, each targeting m
 <h3>Staged Optimisation of Unconfined Compressive Strength</h3>
 <p>Each additive is dosed in turn, holding the previous optimum fixed. Every stage shows an interior peak — strength rises to a maximum, then falls as the dose increases further — confirming the sequential optimisation strategy.</p>
 <img src="/images/research-projects/5c7e3105-f8b7-47c2-b93c-743261e4d224-1785843296457_image.png" alt="Staged optimisation of ternary additive blend" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-<p style="font-size: 0.85em; color: #666; margin-top: 5px;"><em>Figure: Staged optimisation of a ternary additive blend — UCS vs. cumulative additive content</em></p>
-</div>
-
----
-
-## My Contributions
-
-- Ran the experimental programme across the treatment combinations: Atterberg limits, modified Proctor compaction, unconfined compressive strength, and SEM sample preparation.
-- Worked out the optimum additive proportions stage by stage, holding each previous optimum fixed.
-- Examined the fabric change under SEM and interpreted the compaction–strength trade-off.
-- Contributed to the manuscript.
-
----
-
-## Publications
-
-1. Islam, S., Chowdhury, A. S., **Hasnat, N.**, Islam, J., Munna, G. M., Jarin, S., & Ufran, S. "Stabilization of Silty Soil Using a Blend of Lime, Rice Husk Ash, and Eggshell Powder." Under review, *Results in Materials*.
