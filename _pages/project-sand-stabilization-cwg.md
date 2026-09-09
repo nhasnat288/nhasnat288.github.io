@@ -49,32 +49,3 @@ The study was conducted in two phases:
 <div style="margin: 30px 0;">
   <h3 style="margin-bottom: 10px;">Particle Angularity and Image Analysis</h3>
   <p style="margin-bottom: 15px;">Microscopic image analysis of particle morphology at different CWG replacement ratios. Real images were binarized and discretized to quantify particle angularity and shape characteristics, providing insights into how glass content affects the packing behavior and interlocking of the composite.</p>
-  <img src="/images/research-projects/ImageJ_Angularity.png" alt="Microscopic image analysis of particle angularity at different CWG ratios" style="width: 50%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
-  <p style="text-align: center; font-size: 0.85em; color: #666;"><em>Angularity analysis of granular material: (a) Sand, (b)Sand+Glass, (c) Sand+Glass+Fly ash</em></p>
-</div>
-
-<div style="margin: 30px 0;">
-  <h3 style="margin-bottom: 10px;">CBR Stress-Penetration Behavior</h3>
-  <p style="margin-bottom: 15px;">California Bearing Ratio (CBR) stress-penetration curves for sand–CWG–fly ash composites under different mix proportions. The results demonstrate the load-bearing improvement achieved through optimized glass and fly ash content.</p>
-  <img src="/images/research-projects/Sand_CWG_FA CBR.png" alt="CBR stress-penetration chart for sand-CWG-fly ash composites" style="width: 50%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
-  <p style="text-align: center; font-size: 0.85em; color: #666;"><em>CBR stress-penetration curves for various sand–CWG–FA mix proportions</em></p>
-</div>
-
----
-
-## My Contributions
-
-This was my first research project.
-
-- Did the 2D image analysis in ImageJ to track how particle angularity changed with glass content.
-- Worked through the EDS data and the SEM micrographs to establish what had changed in the microstructure and mineralogy.
-- Carried out the geotechnical testing programme.
-- Drafted the manuscript. It taught me most of what I know about technical writing.
-
----
-
-## Publications
-
-1. Islam, S., Islam, J., Alam, M. J. B., Chowdhury, A. S., **Hasnat, N.**, Rafe, M. T. A., & Jubair, S. A. A. (2024). "Partial Replacement of Sand by Fine-Grained Crushed Waste Glass Along with Fly Ash Stabilization for Geotechnical Applications in Pavement." *Heliyon*, 10(19), e38754. [Read paper →](https://doi.org/10.1016/j.heliyon.2024.e38754)
-
-2. Islam, S., Alam, M. J. B., Islam, J., Chowdhury, A. S., **Hasnat, N.**, Rafe, M. T. A., & Jubair, S. A. A. (2024). "Partial Replacement of Sand with Glass Waste for Geotechnical Applications." *Proceedings of ICCESD 2024*, KUET, Khulna, Bangladesh, Paper ID ICCESD_2024_0018, 1–8. [Read paper →](https://www.researchgate.net/publication/379122234_PARTIAL_REPLACEMENT_OF_SAND_WITH_GLASS_WASTE_FOR_GEOTECHNICAL_APPLICATIONS)
