@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Nabid Hasnat"
 title_separator          : "-"
 name                     : &name "Nabid Hasnat"
-description              : &description "Lecturer | Civil Engineering Researcher | Geotechnics & Bio-geotechnics"
+description              : &description "Lecturer in Civil Engineering at Leading University, Sylhet. Physics-informed machine learning, uncertainty quantification, and experimental geotechnics."
 url                      : https://nhasnat288.github.io
 baseurl                  : ""
 repository               : "nhasnat288/nhasnat288.github.io"
@@ -27,7 +27,7 @@ author:
   location         : "Sylhet, Bangladesh"
   employer         :
   uri              :
-  email            : "n.hasnat288@gmail.com"
+  email            : "n.hasnat_ce@lus.ac.bd"
 
   # Academic websites
   academia         :
@@ -47,14 +47,14 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :
+  github           : "nhasnat288"
   kaggle           :
   stackoverflow    :
 
   # Social media
   artstation       :
   bluesky          :
-  facebook         : "navid.hasnat"
+  facebook         :
   flickr           :
   foursquare       :
   goodreads        :
@@ -80,12 +80,14 @@ author:
 
 # Publication Category
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Peer-Reviewed Journal Articles'
+  under_review:
+    title: 'Manuscripts Under Review'
+  in_preparation:
+    title: 'Manuscripts in Preparation'
   conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Conference Proceedings'
 
 # Site Settings
 teaser                   :
