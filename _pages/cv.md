@@ -11,7 +11,7 @@ redirect_from:
 
 [Download my CV (PDF)](/files/Nabid_Hasnat_CV.pdf){: .btn .btn--primary}
 
-*Last updated: [[CONFIRM: month and year]]*
+*Last updated: [01/09/2026]*
 
 ---
 
@@ -53,7 +53,7 @@ Two peer-reviewed journal articles, two manuscripts under review, three conferen
 
 ## Professional Development and Service
 
-**Training** — Applications of Drone Technology in Civil Engineering, 12 h, Institution of Engineers Bangladesh (2026) [[CONFIRM: this date reads as future-dated in some versions of the CV]]; Design of RCC Structures to BNBC 2020, 72 h, Public Works Department, Bangladesh (2024).
+**Training** — Applications of Drone Technology in Civil Engineering, 12 h, Institution of Engineers Bangladesh (2026); Design of RCC Structures to BNBC 2020, 72 h, Public Works Department, Bangladesh (2024).
 
 **Service** — Assistant General Secretary (2023–24) and Assistant IT Secretary (2022–23), Association of Civil and Environmental Engineering, SUST.
 
