@@ -298,3 +298,35 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--geo-accent); ou
   .project-card, .pub, .person, .fig { page-break-inside: avoid; }
   .project-card__media { display: none; }
 }
+
+/* Tool logos */
+.tools { display: flex; flex-wrap: wrap; gap: 6px; margin: 0.55em 0 0.6em; }
+.tool {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78em;
+  line-height: 1;
+  padding: 5px 9px 5px 6px;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  background: var(--global-bg-color);
+  color: var(--global-text-color) !important;
+  white-space: nowrap;
+  img, i {
+    width: 18px; height: 18px;
+    padding: 2px;
+    border-radius: 50%;
+    background: #fff;
+    box-sizing: content-box;
+    display: inline-flex; align-items: center; justify-content: center;
+  }
+  i { font-size: 11px; color: var(--geo-accent-2) !important; margin: 0 !important; }
+}
+.tools--hero {
+  gap: 10px;
+  margin: 0.4em 0 1.6em;
+  .tool { font-size: 0.9em; padding: 7px 13px 7px 8px; background: var(--geo-card); box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+  .tool img, .tool i { width: 22px; height: 22px; }
+  .tool i { font-size: 13px; }
+}
