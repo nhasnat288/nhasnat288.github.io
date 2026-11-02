@@ -45,6 +45,11 @@ The first two are computational and the third is the one I'm running as Principa
 <p>A two-stage stabilization study on the flood-control embankments around the haor wetlands of Sunamganj — natural zeolite first (5–20%, cured), then cellulose fiber (0.25–1.0%, compacted), as a lower-carbon alternative to cement and lime. A drone-based DEM survey picks the sampling sites; direct shear, UCS and SEM-EDS find the optimum mix; PLAXIS 2D checks the factor of safety of the treated embankment; and a life cycle assessment compares it against a conventional stabilizer. I'm the Principal Investigator, supervising two B.Sc. students on the testing and modelling.</p>
 <p><strong>Key areas:</strong> Natural zeolite, cellulose fiber, two-stage stabilization, drone survey, PLAXIS 2D, life cycle assessment</p>
 </div>
+<div style="flex: 0 0 420px;">
+<video autoplay muted loop playsinline preload="metadata" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<source src="/images/research-projects/Natural%20Zeolite%20and%20Cellulose%20Fiber%20Stabilization%20of%20Sunamganj%20Embankment%20Soil.mp4" type="video/mp4">
+</video>
+</div>
 </div>
 
 ---
