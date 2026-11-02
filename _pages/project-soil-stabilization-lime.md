@@ -35,7 +35,7 @@ Additive percentages were optimised in three sequential stages, each targeting m
 <h3>Compaction Response at Each Optimisation Stage</h3>
 <p>Moisture demand and dry density move in opposite directions as lime and ash are added, and the trend reverses once the calcium-rich waste enters the blend. Each panel corresponds to one optimisation stage: (a) lime alone, (b) lime + RHA, and (c) lime + RHA + ESP.</p>
 <img src="/images/research-projects/e9133c4a-d3ac-454e-b74d-b14914eb25b0-1785843274793_image.png" alt="Compaction response at each optimisation stage" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-<p style="font-size: 0.85em; color: #666; margin-top: 5px;"><em>Figure: Compaction response — optimum moisture content and maximum dry density at each stage</em></p>
+<p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 5px;"><em>Figure: Compaction response — optimum moisture content and maximum dry density at each stage</em></p>
 </div>
 
 <div style="margin-bottom: 30px;">

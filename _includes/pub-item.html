@@ -1,0 +1,11 @@
+<div class="pub">
+  <p class="pub__title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+  <p class="pub__cite">{% if post.status %}<span class="pub__status">{{ post.status }}</span>{% endif %}{{ post.citation }}</p>
+  {% if post.role %}<p class="pub__role"><strong>My role:</strong> {{ post.role }}</p>{% endif %}
+  <div class="pub__links">
+    {% if post.doi %}<a class="pub__btn" href="https://doi.org/{{ post.doi }}">DOI</a>{% endif %}
+    {% if post.bibtexurl %}<a class="pub__btn" href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
+    {% if post.project %}<a class="pub__btn" href="{{ post.project }}">Project page</a>{% endif %}
+    {% if post.status %}<a class="pub__btn" href="mailto:{{ site.author.email }}?subject={{ post.title | uri_escape }}">Request manuscript</a>{% endif %}
+  </div>
+</div>

@@ -52,15 +52,15 @@ The work runs in two steps. First, gradient-boosted tree models learn the relati
 <div style="margin-bottom: 30px;">
 <h3>Equation Versus Model Accuracy</h3>
 <p>Accuracy of the closed-form equation and of linear regression on the held-out test set, shown relative to the best gradient-boosted model for each crack measure. For crack ratio, the equation gives up very little against the full model.</p>
-<img src="/images/research-projects/Desiccation_ML_Relative_Accuracy.png" alt="Relative accuracy of boosted model, closed-form equation and linear regression" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
-<p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: Accuracy relative to the best gradient-boosted model, per crack measure</p>
+<img src="/images/research-projects/Desiccation_ML_Relative_Accuracy.png" alt="Relative accuracy of boosted model, closed-form equation and linear regression" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: Accuracy relative to the best gradient-boosted model, per crack measure</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>What Drives Each Crack Measure</h3>
 <p>Permutation importance from the best model for each crack measure, with the inputs grouped by what they describe and ranked as dominant, secondary or minor. The dominant group changes from one crack measure to the next.</p>
-<img src="/images/research-projects/Desiccation_ML_Drivers.png" alt="Dominant, secondary and minor drivers of each crack measure" style="max-width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
-<p style="text-align: center; font-style: italic; color: #666; font-size: 0.9em;">Figure: Relative importance of each group of inputs, per crack measure</p>
+<img src="/images/research-projects/Desiccation_ML_Drivers.png" alt="Dominant, secondary and minor drivers of each crack measure" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: Relative importance of each group of inputs, per crack measure</p>
 </div>
 
 ---

@@ -43,7 +43,7 @@ The study was conducted in two phases:
   <h3 style="margin-bottom: 10px;">SEM-EDS Microstructural Analysis</h3>
   <p style="margin-bottom: 15px;">Scanning Electron Microscopy (SEM) images revealing the microstructural characteristics of the sand–glass–fly ash composites. The images show (a) irregular surface morphology of crushed waste glass particles with notch-like undulations at higher magnification, and (d) pore-filling and bonding mechanisms of fly ash clusters within the composite matrix.</p>
   <img src="/images/research-projects/Sand_Glass_FA_SEM.png" alt="SEM micrographs showing microstructural analysis of CWG and fly ash composites" style="width: 50%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
-  <p style="text-align: center; font-size: 0.85em; color: #666;"><em>SEM micrographs: (a) CWG particle morphology and surface features, (b) Crushed glass particle morphology, (c)Fly ash particle morphology, and  (d) Fly ash bonding and pore-filling in the stabilized optimum stabilized composite</em></p>
+  <p style="text-align: center; font-size: 0.85em; color: var(--global-text-color-light);"><em>SEM micrographs: (a) CWG particle morphology and surface features, (b) Crushed glass particle morphology, (c)Fly ash particle morphology, and  (d) Fly ash bonding and pore-filling in the stabilized optimum stabilized composite</em></p>
 </div>
 
 <div style="margin: 30px 0;">

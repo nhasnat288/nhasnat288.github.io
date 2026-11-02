@@ -23,7 +23,7 @@ Four things run alongside each other. A drone survey of the embankments, to pick
 
 <div style="margin: 25px 0;">
 <img src="/images/research-projects/Zeolite_Cellulose_Field.jpg" alt="Cracked embankment soil and a failed embankment section in Sunamganj" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12);">
-<p style="text-align: center; font-size: 0.85em; color: #666;"><em>The problem in the field: desiccation cracks in the embankment soil and a failed embankment section along the haor.</em></p>
+<p style="text-align: center; font-size: 0.85em; color: var(--global-text-color-light);"><em>The problem in the field: desiccation cracks in the embankment soil and a failed embankment section along the haor.</em></p>
 </div>
 
 ---
@@ -31,8 +31,8 @@ Four things run alongside each other. A drone survey of the embankments, to pick
 ## Methodology
 
 <div style="margin: 20px 0;">
-<img src="/images/research-projects/Zeolite_Cellulose_Methodology.png" alt="Experimental programme: site selection, soil characterization, two-stage treatment, strength testing" style="width: 100%; max-width: 760px; display: block; margin: 0 auto; border: 1px solid #ddd; border-radius: 4px; padding: 4px;">
-<p style="text-align: center; font-size: 0.85em; color: #666;"><em>The experimental programme, from site selection to strength testing.</em></p>
+<img src="/images/research-projects/Zeolite_Cellulose_Methodology.png" alt="Experimental programme: site selection, soil characterization, two-stage treatment, strength testing" style="width: 100%; max-width: 760px; display: block; margin: 0 auto; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<p style="text-align: center; font-size: 0.85em; color: var(--global-text-color-light);"><em>The experimental programme, from site selection to strength testing.</em></p>
 </div>
 
 1. **Site selection and sampling.** A drone survey (DJI Neo 2, processed by photogrammetry and in QGIS) builds a 3D DEM of the embankment to identify the critical slopes. Soil is then sampled from failed, distressed and stable sites, with coordinates and site data recorded for each.

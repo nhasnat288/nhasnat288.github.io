@@ -5,10 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-<div class="wordwrap">ORCID: <a href="https://orcid.org/0009-0009-6357-0282">0009-0009-6357-0282</a></div>
+<p>Two journal articles, three manuscripts under review, one in preparation and three conference papers. Each entry says what I did on it. Manuscripts under review are available on request.</p>
+<p>Also on <a href="{{site.author.googlescholar}}">Google Scholar</a> and <a href="https://orcid.org/0009-0009-6357-0282">ORCID (0009-0009-6357-0282)</a>.</p>
 
 {% include base_path %}
 
@@ -24,11 +22,11 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include pub-item.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include pub-item.html %}
   {% endfor %}
 {% endif %}

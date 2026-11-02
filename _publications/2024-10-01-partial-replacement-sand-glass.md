@@ -8,6 +8,10 @@ date: 2024-10-01
 venue: 'Heliyon'
 paperurl: 'https://doi.org/10.1016/j.heliyon.2024.e38754'
 citation: 'Islam, S., Islam, J., Alam, M. J. B., Chowdhury, A. S., <b>Hasnat, N.</b>, Rafe, M. T. A., &amp; Jubair, S. A. A. (2024). &quot;Partial Replacement of Sand by Fine-Grained Crushed Waste Glass Along with Fly Ash Stabilization for Geotechnical Applications in Pavement.&quot; <i>Heliyon</i>, 10(19), e38754.'
+doi: '10.1016/j.heliyon.2024.e38754'
+project: '/research-projects/sand-stabilization-cwg/'
+bibtexurl: '/files/bib/islam2024partial.bib'
+role: 'Found the optimum crushed glass and fly ash proportions for the subgrade mix and characterized the microstructure by SEM-EDS.'
 ---
 
 This research investigates the partial replacement of sand with fine-grained crushed waste glass combined with fly ash stabilization for geotechnical applications in pavement.

@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "geo"
 title                    : "Nabid Hasnat"
 title_separator          : "-"
 name                     : &name "Nabid Hasnat"
-description              : &description "Lecturer in Civil Engineering at Leading University, Sylhet. Physics-informed machine learning, uncertainty quantification, and experimental geotechnics."
+description              : &description "Geotechnical engineer and Lecturer at Leading University, Sylhet. Soil stabilization, physics-informed machine learning and geohazard mitigation. Seeking a funded graduate position for Fall 2027."
 url                      : https://nhasnat288.github.io
 baseurl                  : ""
 repository               : "nhasnat288/nhasnat288.github.io"
@@ -24,6 +24,7 @@ author:
   name             : "Nabid Hasnat"
   pronouns         :
   bio              : "Lecturer<br>Department of Civil Engineering<br>Leading University"
+  status           : "Seeking a funded graduate position · Fall 2027"
   location         : "Sylhet, Bangladesh"
   employer         :
   uri              :
@@ -139,12 +140,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
+og_image                 : "share-card.png"
 og_description           :
 social:
-  type                   :
-  name                   :
+  type                   : Person
+  name                   : "Nabid Hasnat"
   links:
+    - "https://orcid.org/0009-0009-6357-0282"
+    - "https://scholar.google.com/citations?user=iDVZVjgAAAAJ"
+    - "https://www.researchgate.net/profile/Nabid-Hasnat"
+    - "https://www.linkedin.com/in/nabid-hasnat-316508255"
+    - "https://github.com/nhasnat288"
 
 # Analytics
 analytics:
@@ -214,12 +220,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 

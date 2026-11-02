@@ -14,36 +14,36 @@ I've been teaching at Leading University since November 2024, first as an adjunc
 
 ### Courses Taught
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; margin-top: 12px;">
+<div class="card-grid">
 
-<div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
+<div class="card">
 <strong>Geotechnical Engineering</strong><br>
-<span style="color: #666; font-size: 0.9em;">Soil mechanics, foundation design, bearing capacity, earth pressure, and slope stability.</span>
+<span>Soil mechanics, foundation design, bearing capacity, earth pressure, and slope stability.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
+<div class="card">
 <strong>Groundwater Engineering</strong><br>
-<span style="color: #666; font-size: 0.9em;">Groundwater hydrology, well hydraulics, aquifer properties, and flow analysis.</span>
+<span>Groundwater hydrology, well hydraulics, aquifer properties, and flow analysis.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
+<div class="card">
 <strong>Design of Steel Structures</strong><br>
-<span style="color: #666; font-size: 0.9em;">Tension and compression members, beams, and connections.</span>
+<span>Tension and compression members, beams, and connections.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
+<div class="card">
 <strong>Surveying</strong><br>
-<span style="color: #666; font-size: 0.9em;">Levelling, traversing, total station work, and an introduction to GIS and GPS.</span>
+<span>Levelling, traversing, total station work, and an introduction to GIS and GPS.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
+<div class="card">
 <strong>Environmental Engineering Sessional</strong><br>
-<span style="color: #666; font-size: 0.9em;">Software-based design sessional.</span>
+<span>Software-based design sessional.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
+<div class="card">
 <strong>Transportation Engineering Sessional</strong><br>
-<span style="color: #666; font-size: 0.9em;">Software-based design sessional.</span>
+<span>Software-based design sessional.</span>
 </div>
 
 </div>
@@ -57,31 +57,31 @@ I've been teaching at Leading University since November 2024, first as an adjunc
 
 ### Courses Taught
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; margin-top: 12px;">
+<div class="card-grid">
 
-<div style="background: #f8f9fa; border-left: 4px solid #7ab648; padding: 16px; border-radius: 4px;">
+<div class="card card--alt">
 <strong>Engineering Materials</strong><br>
-<span style="color: #666; font-size: 0.9em;">Properties, testing, and applications of construction materials including cement, concrete, steel, timber, and polymers.</span>
+<span>Properties, testing, and applications of construction materials including cement, concrete, steel, timber, and polymers.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #7ab648; padding: 16px; border-radius: 4px;">
+<div class="card card--alt">
 <strong>Mechanics of Solids</strong><br>
-<span style="color: #666; font-size: 0.9em;">Stress-strain relationships, axial loading, torsion, bending, shear, and combined loading in structural members.</span>
+<span>Stress-strain relationships, axial loading, torsion, bending, shear, and combined loading in structural members.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #7ab648; padding: 16px; border-radius: 4px;">
+<div class="card card--alt">
 <strong>Ecology</strong><br>
-<span style="color: #666; font-size: 0.9em;">Ecological principles, environmental systems, biodiversity, and environmental impact assessment in civil engineering contexts.</span>
+<span>Ecological principles, environmental systems, biodiversity, and environmental impact assessment in civil engineering contexts.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #7ab648; padding: 16px; border-radius: 4px;">
+<div class="card card--alt">
 <strong>Details of Construction Sessional</strong><br>
-<span style="color: #666; font-size: 0.9em;">Practical sessional on construction detailing and methods.</span>
+<span>Practical sessional on construction detailing and methods.</span>
 </div>
 
-<div style="background: #f8f9fa; border-left: 4px solid #7ab648; padding: 16px; border-radius: 4px;">
+<div class="card card--alt">
 <strong>Reinforced Concrete Design Sessional</strong><br>
-<span style="color: #666; font-size: 0.9em;">Design sessional for reinforced concrete structural elements.</span>
+<span>Design sessional for reinforced concrete structural elements.</span>
 </div>
 
 </div>

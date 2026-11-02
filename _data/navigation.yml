@@ -5,8 +5,12 @@ main:
     url: /
   - title: "Research"
     url: /research-projects/
+  - title: "Statement"
+    url: /research-statement/
   - title: "Publications"
     url: /publications/
+  - title: "Skills"
+    url: /skills/
   - title: "Teaching"
     url: /teaching-experience/
   - title: "CV"
