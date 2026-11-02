@@ -8,11 +8,11 @@ redirect_from:
 ---
 I am a Lecturer in the Department of Civil Engineering at Leading University, Sylhet, Bangladesh. I received my B.Sc. in Civil and Environmental Engineering from Shahjalal University of Science and Technology (SUST) in 2024, graduating with a CGPA of 3.76 out of 4.00. I am currently looking for a graduate position.
 
-My research is in geotechnical engineering, and it follows two connected lines. The first is experimental. As a Research and Technical Assistant at SUST from 2022 to 2024, I carried out the laboratory work for four funded soil stabilization projects. These studies looked at crushed waste glass, fly ash, polyester and waste plastic fiber, lime, rice husk ash and eggshell powder as additives for weak soils. My undergraduate thesis examined microbially induced carbonate precipitation using the cyanobacterium *Arthrospira platensis*, an approach that has seen little use in Bangladesh.
+My research is in geotechnical engineering, with a foundation in experimental work. From 2022 to 2024, I worked as a Research and Technical Assistant at SUST, where I carried out the laboratory programmes for four funded projects on soil stabilization. These projects examined how waste and low-cost materials, including crushed glass, fly ash, polyester and waste plastic fiber, lime, rice husk ash and eggshell powder, improve the strength and cracking resistance of weak soils. My undergraduate thesis studied microbially induced carbonate precipitation using the cyanobacterium *Arthrospira platensis*, an approach that has received little attention in Bangladesh.
 
-The second line is computational. While teaching slope stability, I noticed that many published machine learning models for slopes produce predictions that contradict basic soil mechanics. To address this, I developed a Bayesian physics-informed neural network that cannot violate these physical trends, pretrained on PLAXIS 2D simulations generated through automated scripting. I am now applying gradient boosting and symbolic regression to identify the main factors that control desiccation cracking in embankment soils.
+After graduating, I set out to complement this experimental background with numerical and data-driven methods, so that laboratory findings could be tested at larger scales and across wider conditions than a single test programme allows. This led to a Bayesian physics-informed neural network for slope stability, which is constrained to respect basic soil mechanics and is pretrained on PLAXIS 2D simulations generated through automated scripting. I am now applying gradient boosting and symbolic regression to a compiled database of desiccation tests, to identify the factors that control cracking in embankment soils.
 
-I am also the Principal Investigator of a project funded by the Centre for Research, Innovative Studies and Planning (CRISP), Leading University, which tests natural zeolite and cellulose fiber as low-carbon stabilizers for embankment soil. The project combines a drone survey, laboratory testing, finite element modelling and life cycle assessment.
+These two strands come together in my current work. I am the Principal Investigator of a project funded by the Centre for Research, Innovative Studies and Planning (CRISP), Leading University, which tests natural zeolite and cellulose fiber as low-carbon stabilizers for embankment soil. The project combines a drone survey, laboratory testing, finite element modelling and life cycle assessment.
 
 ## At a Glance
 
@@ -78,5 +78,5 @@ I am also the Principal Investigator of a project funded by the Centre for Resea
 A full list of projects is on the [research](/research-projects/) page, and all papers are on the [publications](/publications/) page.
 
 <div class="contact-box">
-<p>If my work aligns with your group's research, I would welcome the chance to discuss it. You can reach me at <a href="mailto:n.hasnat_ce@lus.ac.bd">n.hasnat_ce@lus.ac.bd</a>. Manuscripts under review are available on request.</p>
+<p>If my work aligns with your group's research, I would be glad to discuss any of my projects in more detail. You can reach me at <a href="mailto:n.hasnat_ce@lus.ac.bd">n.hasnat_ce@lus.ac.bd</a>.</p>
 </div>

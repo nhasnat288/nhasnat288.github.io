@@ -87,9 +87,9 @@ The independent projects are ones I started myself or with collaborators after g
 
 <div class="project-card">
 <div class="project-card__text">
-<h3><a href="/research-projects/desiccation-cracking/">Mitigating Desiccation-Induced Cracking of Embankment Soil Using Fiber Reinforcement and Fly Ash</a></h3>
+<h3><a href="/research-projects/desiccation-cracking/">Mitigating Desiccation Cracking in Embankment Soil Using Polyester Fiber and Fly Ash</a></h3>
 <p><strong>Status:</strong> Published in <em>Geotechnical and Geological Engineering</em> (2025) &nbsp;|&nbsp; <strong>Duration:</strong> 2023 – 2024</p>
-<p>We tested polypropylene fiber first and polyester fiber after that, with and without fly ash, on embankment soil that cracks as it dries. Polyester fiber with fly ash cut the surface crack ratio by up to 96.4% and raised UCS by 45%.</p>
+<p>Polyester fiber and fly ash were added to cracking-prone embankment soil from Sunamganj, and cracking was measured from images and 3D photogrammetric models. The optimum mix of 1.5% fiber and 15% fly ash reduced surface cracking by 96.4% and crack volume by 97.8%, and increased the unconfined compressive strength by 45%.</p>
 <p><strong>Key areas:</strong> Desiccation cracking, fiber reinforcement, fly ash stabilization, embankment soil, crack mitigation</p>
 </div>
 <div class="project-card__media">
@@ -138,9 +138,9 @@ The independent projects are ones I started myself or with collaborators after g
 
 <div class="project-card">
 <div class="project-card__text">
-<h3><a href="/research-projects/sand-stabilization-cwg/">Geotechnical Application of Crushed Waste Glass and Fly Ash in Sand Replacement</a></h3>
+<h3><a href="/research-projects/sand-stabilization-cwg/">Partial Replacement of Sand with Crushed Waste Glass and Fly Ash Stabilization</a></h3>
 <p><strong>Status:</strong> Published in <em>Heliyon</em> (2024) &nbsp;|&nbsp; <strong>Duration:</strong> 2022 – 2023</p>
-<p>We replaced part of the sand with crushed waste glass, alone and with fly ash, for use in pavement subgrade. This was my first research project.</p>
+<p>Crushed waste glass replaced part of the natural sand, and the best sand–glass mix was then stabilized with fly ash for pavement subgrade use. The optimum mix of 30% glass and 25% fly ash increased shear strength by about 56% and CBR by about 44%. This was my first research project.</p>
 <p><strong>Key areas:</strong> Waste glass utilization, fly ash stabilization, sustainable geotechnical materials, pavement subgrade improvement</p>
 </div>
 <div class="project-card__media">

@@ -11,7 +11,7 @@ author_profile: true
 
 ## Research in Brief
 
-I was teaching slope stability while reading machine learning papers on the same topic. Many of those models gave answers that went against what I was teaching in class. For example, a model could fit a slope database well and still say a slope gets safer as it gets taller. This project tries to fix that.
+Machine learning models for slope stability are increasingly common, but many of them give answers that contradict basic soil mechanics. For example, a model could fit a slope database well and still say a slope gets safer as it gets taller. This project tries to fix that.
 
 I collected 275 circular-failure slope cases from 14 published sources. I removed duplicates and cases that didn't make physical sense, and kept 55 aside as a test set I never trained on. Then I automated 3,000 PLAXIS 2D strength-reduction runs with the Python scripting API. Getting this to run properly meant fixing arc-length control and mode-dependency problems. I used 2,000 of these runs to pretrain the network.
 

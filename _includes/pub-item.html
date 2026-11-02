@@ -6,6 +6,5 @@
     {% if post.doi %}<a class="pub__btn" href="https://doi.org/{{ post.doi }}">DOI</a>{% endif %}
     {% if post.bibtexurl %}<a class="pub__btn" href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
     {% if post.project %}<a class="pub__btn" href="{{ post.project }}">Project page</a>{% endif %}
-    {% if post.status %}<a class="pub__btn" href="mailto:{{ site.author.email }}?subject={{ post.title | uri_escape }}">Ask for a copy</a>{% endif %}
   </div>
 </div>

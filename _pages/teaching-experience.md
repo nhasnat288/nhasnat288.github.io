@@ -5,7 +5,7 @@ permalink: /teaching-experience/
 author_profile: true
 ---
 
-I've taught at Leading University for two years. I started as an adjunct lecturer in November 2024 and became full time in October 2025. Teaching slope stability and foundations is also what got me into computational work. While teaching these topics, I was reading machine learning papers on the same problems and noticed that many of them didn't agree with the basics I was teaching.
+I have taught at Leading University for two years, first as an Adjunct Lecturer from November 2024 and as a full-time Lecturer since October 2025. My courses cover geotechnical, groundwater and structural engineering, along with several design and construction sessionals.
 
 ## Current Position
 
