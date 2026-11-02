@@ -7,7 +7,7 @@ author_profile: true
 
 Eight projects, listed from the most recent to the earliest. Each page says what the problem was, what came out of it, and what I actually did on it — the papers cover the results, so these go into the parts that took the longest to get working.
 
-The independent work is what I've led since joining Leading University. The undergraduate work was done at SUST as a Research and Technical Assistant, funded by the SUST Research Centre.
+The independent work is research I've taken on through my own initiative and collaborations after graduating, rather than as part of a supervised programme. The undergraduate work was done at SUST as a Research and Technical Assistant, funded by the SUST Research Centre.
 
 ## Independent Research Experience
 
