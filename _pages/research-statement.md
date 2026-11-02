@@ -5,33 +5,33 @@ permalink: /research-statement/
 author_profile: true
 ---
 
-I want to work on making weak and problem soils safer and cheaper to build on, using both lab testing and computer models.
+My goal is to make weak and problematic soils safer and more economical to build on, by combining laboratory testing with numerical and data-driven modelling.
 
-## <i class="fas fa-flask"></i> What I've done so far
+## <i class="fas fa-flask"></i> Experimental Background
 
-My undergraduate research at SUST was almost all lab work on soil stabilization. I tested crushed waste glass and fly ash as a partial sand replacement for pavement subgrade. I worked on fiber and fly ash to reduce cracking in embankment soil as it dries. I tried lime with rice husk ash and eggshell powder on a silty soil. For my thesis, I used a cyanobacterium, *Arthrospira platensis*, to cement sand.
+My undergraduate research at SUST focused on soil stabilization. I studied crushed waste glass and fly ash as a partial replacement for sand in pavement subgrade, fiber and fly ash as a way to reduce desiccation cracking in embankment soil, and a blend of lime, rice husk ash and eggshell powder for a silty soil. My thesis examined microbially induced carbonate precipitation using the cyanobacterium *Arthrospira platensis* to cement sand.
 
-These projects taught me to build my own test setups when the standard ones didn't fit. They also showed me how much the microstructure explains. A strength test tells you that a soil got stronger. SEM usually tells you why.
+This work taught me to design and build test setups when standard equipment did not suit the problem. It also showed me the value of microstructural evidence. Strength and permeability tests show how much a soil has improved, while SEM-EDS helps explain why.
 
-## <i class="fas fa-mountain"></i> Why the field matters to me
+## <i class="fas fa-mountain"></i> From the Laboratory to the Field
 
-I grew up in Sunamganj. The flood embankments there crack badly in the dry season and get repaired almost every year. Two of my projects used soil from these embankments. That work taught me that a lab result only matters if it still works in the field.
+Several of these projects used soil from flood-control embankments in northeastern Bangladesh, which crack during the dry season and require frequent repair. Working on these soils made me aware that a laboratory result is only useful if it holds up at field scale. My current project therefore pairs laboratory testing with a drone survey of the embankments and finite element modelling of full embankment sections.
 
-## <i class="fas fa-laptop-code"></i> How I started using models
+## <i class="fas fa-laptop-code"></i> Computational Work
 
-After graduating I started teaching slope stability. I was also reading machine learning papers on the same topic, and many of the models broke basic soil mechanics. Some predicted that a slope gets safer as it gets taller. So I built a Bayesian physics-informed network that can't make that kind of mistake. I automated 3,000 PLAXIS 2D runs with Python and used 2,000 of them to pretrain it. I'm now using gradient boosting and symbolic regression to find what drives desiccation cracking.
+My interest in modelling grew out of teaching slope stability. Many machine learning models for slope stability fit their data well but still predict physically impossible trends, such as a slope becoming safer as its height increases. I developed a Bayesian physics-informed neural network in which these trends are built into the model, so that it cannot produce such predictions. I generated its pretraining data by automating 3,000 PLAXIS 2D strength-reduction analyses through Python scripting. I am currently using gradient boosting and symbolic regression to identify the main factors that control desiccation cracking.
 
-## <i class="fas fa-compass"></i> What I'd like to work on next
+## <i class="fas fa-compass"></i> Research Directions
 
-I'm flexible on the exact topic. These are the areas I'm most interested in:
+I am open to a range of specific topics within the following areas:
 
-- Ground improvement, including bio-based and low-carbon methods, with a focus on why a treatment works and where it stops working.
-- Problem soils and geohazards, such as cracking, erosion and slope failure.
-- Machine learning that respects the physics, gives honest uncertainty, and can be checked against what engineers already know.
-- Using lab and numerical results together, so that each one makes the other more reliable.
+- Ground improvement, including bio-based and low-carbon methods, with an emphasis on understanding why a treatment works and under what conditions it stops working.
+- Problematic soils and geohazards, such as desiccation cracking, erosion and slope instability.
+- Machine learning methods for geotechnical problems that respect physical principles and report their uncertainty.
+- Combined use of laboratory, numerical and data-driven results, so that each improves the reliability of the others.
 
-## <i class="fas fa-toolbox"></i> What I bring
+## <i class="fas fa-toolbox"></i> What I Bring
 
-I can design and run a lab programme from start to finish, including custom setups. I can survey a site with a drone and model it in PLAXIS. I can also build and test machine learning models in Python. I've taught core geotechnical courses for two years, which has made me better at explaining my work clearly.
+I have planned and carried out laboratory programmes from start to finish, including the design of custom test setups. I have experience with drone-based site surveys, finite element analysis in PLAXIS, and applying machine learning methods to geotechnical data. Two years of teaching core geotechnical courses have also strengthened my ability to explain technical work clearly.
 
-You can see the details on the [research](/research-projects/) and [skills](/skills/) pages.
+Further details are available on the [research](/research-projects/) and [skills](/skills/) pages.
