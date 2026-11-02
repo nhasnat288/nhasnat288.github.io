@@ -12,7 +12,6 @@ location: "Sylhet, Bangladesh"
 
 ### Theory Courses
 - Geotechnical Engineering
-- Design of Steel Structure
 - Groundwater Engineering
 - Surveying
 
@@ -25,7 +24,3 @@ location: "Sylhet, Bangladesh"
 - Question preparation and exam moderation
 - Preparation of the BAETE accreditation Self-Assessment Report
 - Student counselling and supervision of undergraduate research
-
-### Research Activities
-- *Experimental Characterization and Slope Hazard Assessment of Sylhet Region Using FEM*
-- *Effects of Sand Piles in Reclaimed Soil: A Case Analysis using FEM*

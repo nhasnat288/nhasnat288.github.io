@@ -27,11 +27,6 @@ I've been teaching at Leading University since November 2024, first as an adjunc
 </div>
 
 <div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
-<strong>Design of Steel Structures</strong><br>
-<span style="color: #666; font-size: 0.9em;">Tension and compression members, beams, and connections.</span>
-</div>
-
-<div style="background: #f8f9fa; border-left: 4px solid #4a90d9; padding: 16px; border-radius: 4px;">
 <strong>Surveying</strong><br>
 <span style="color: #666; font-size: 0.9em;">Levelling, traversing, total station work, and an introduction to GIS and GPS.</span>
 </div>
