@@ -34,6 +34,11 @@ The first two are computational and the third is the one I'm running as Principa
 <p>The experimental desiccation work told me how much a given additive suppresses cracking, but not which variables are actually doing the work. Here I trained LightGBM, XGBoost and CatBoost, with native categorical handling, on a dataset compiled from published desiccation studies, then fitted closed-form equations to the model response by genetic-programming symbolic regression, encoding the categorical inputs through partial-dependence factors. Each crack measure turns out to be governed by a different driver.</p>
 <p><strong>Key areas:</strong> Gradient boosting, symbolic regression, SHAP, desiccation cracking, embankment soil</p>
 </div>
+<div style="flex: 0 0 420px;">
+<video autoplay muted loop playsinline preload="metadata" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<source src="/images/research-projects/Gradient-Boosted%20and%20Symbolic%20Regression%20Modelling%20of%20Desiccation%20Cracking.mp4" type="video/mp4">
+</video>
+</div>
 </div>
 
 ---
