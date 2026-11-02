@@ -5,8 +5,6 @@ main:
     url: /
   - title: "Research"
     url: /research-projects/
-  - title: "Statement"
-    url: /research-statement/
   - title: "Publications"
     url: /publications/
   - title: "Skills"
