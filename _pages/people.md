@@ -9,7 +9,7 @@ These are the people I've worked with. I owe a lot of what I know to them.
 
 ## <i class="fas fa-chalkboard-user"></i> Supervisors
 
-<div class="people-grid">
+<div class="people-grid people-grid--feature">
 
 <div class="person">
 <img src="/images/people/msr.jpg" alt="Photo of Dr. Mohammad Shahidur Rahman" loading="lazy">
