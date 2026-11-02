@@ -27,7 +27,7 @@ The two lines ask the same question from opposite ends — whether a description
 ## Selected Work
 
 - [Physically admissible slope-stability prediction using a Bayesian physics-informed neural network](/research-projects/slope-stability/) — manuscript in preparation
-- Gradient-boosted and symbolic regression modelling of desiccation cracking — ongoing
+- [Gradient-boosted and symbolic regression modelling of desiccation cracking](/research-projects/desiccation-ml/) — ongoing
 - [Two-stage stabilization of haor embankment soil with natural zeolite and cellulose fiber](/research-projects/zeolite-cellulose/) — Principal Investigator, funded by CRISP, Leading University
 - [Bio-cementation of sand using *Arthrospira platensis*](/research-projects/bio-cementation/) — undergraduate thesis, first-author manuscript under review at *Geosystems and Geoenvironment*
 
