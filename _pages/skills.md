@@ -8,7 +8,7 @@ author_profile: true
 These are the methods and tools I've used in my own projects. Each group links to the projects where I used them.
 
 <div class="tools tools--hero">
-<span class="tool"><img src="/images/tools/bentley.svg" alt="" width="18" height="18">PLAXIS</span><span class="tool"><img src="/images/tools/python.svg" alt="" width="18" height="18">Python</span><span class="tool"><img src="/images/tools/pytorch.svg" alt="" width="18" height="18">PyTorch</span><span class="tool"><img src="/images/tools/scikitlearn.svg" alt="" width="18" height="18">scikit-learn</span><span class="tool"><img src="/images/tools/qgis.svg" alt="" width="18" height="18">QGIS</span><span class="tool"><img src="/images/tools/autocad.svg" alt="" width="18" height="18">AutoCAD</span><span class="tool"><i class="fas fa-square-root-variable"></i>MATLAB</span><span class="tool"><i class="fas fa-building"></i>ETABS</span><span class="tool"><img src="/images/tools/dji.svg" alt="" width="18" height="18">DJI</span><span class="tool"><img src="/images/tools/latex.svg" alt="" width="18" height="18">LaTeX</span><span class="tool"><img src="/images/tools/git.svg" alt="" width="18" height="18">Git</span>
+<span class="tool"><img src="/images/tools/bentley.svg" alt="" width="18" height="18">PLAXIS</span><span class="tool"><img src="/images/tools/python.svg" alt="" width="18" height="18">Python</span><span class="tool"><img src="/images/tools/pytorch.svg" alt="" width="18" height="18">PyTorch</span><span class="tool"><img src="/images/tools/scikitlearn.svg" alt="" width="18" height="18">scikit-learn</span><span class="tool"><img src="/images/tools/qgis.svg" alt="" width="18" height="18">QGIS</span><span class="tool"><img src="/images/tools/autocad.svg" alt="" width="18" height="18">AutoCAD</span><span class="tool"><i class="fas fa-square-root-variable"></i>MATLAB</span><span class="tool"><i class="fas fa-building"></i>ETABS</span><span class="tool"><img src="/images/tools/dji.svg" alt="" width="18" height="18">DJI</span>
 </div>
 
 <div class="card-grid">
@@ -30,14 +30,14 @@ These are the methods and tools I've used in my own projects. Each group links t
 <div class="card card--alt">
 <strong><i class="fas fa-cubes"></i> Numerical modelling</strong><br>
 <div class="tools"><span class="tool"><img src="/images/tools/bentley.svg" alt="" width="18" height="18">PLAXIS 2D / 3D</span><span class="tool"><img src="/images/tools/python.svg" alt="" width="18" height="18">Python scripting</span><span class="tool"><i class="fas fa-faucet-drip"></i>EPANET</span><span class="tool"><i class="fas fa-cloud-showers-water"></i>SWMM</span><span class="tool"><i class="fas fa-water"></i>MODFLOW</span></div>
-<span>PLAXIS 2D and 3D, including running thousands of strength-reduction analyses automatically with Python. EPANET, SWMM and MODFLOW for water resources.</span><br>
+<span>PLAXIS 2D and 3D, including using Python scripts to run large numbers of strength-reduction analyses. EPANET, SWMM and MODFLOW for water resources.</span><br>
 <span>Used in: <a href="/research-projects/slope-stability/">Bayesian PINN slope stability</a>, <a href="/research-projects/zeolite-cellulose/">zeolite and cellulose fiber</a></span>
 </div>
 
 <div class="card card--alt">
 <strong><i class="fas fa-brain"></i> Machine learning</strong><br>
 <div class="tools"><span class="tool"><img src="/images/tools/pytorch.svg" alt="" width="18" height="18">PyTorch</span><span class="tool"><img src="/images/tools/scikitlearn.svg" alt="" width="18" height="18">scikit-learn</span><span class="tool"><i class="fas fa-tree"></i>XGBoost</span><span class="tool"><i class="fas fa-tree"></i>LightGBM</span><span class="tool"><i class="fas fa-tree"></i>CatBoost</span><span class="tool"><i class="fas fa-chart-simple"></i>SHAP</span></div>
-<span>Bayesian and physics-informed neural networks, uncertainty quantification, transfer learning, LightGBM, XGBoost, CatBoost, random forest, symbolic regression and SHAP.</span><br>
+<span>I've used Bayesian and physics-informed neural networks, gradient boosting (LightGBM, XGBoost, CatBoost), random forest, symbolic regression and SHAP in my projects.</span><br>
 <span>Used in: <a href="/research-projects/slope-stability/">Bayesian PINN slope stability</a>, <a href="/research-projects/desiccation-ml/">desiccation cracking modelling</a></span>
 </div>
 
@@ -49,9 +49,15 @@ These are the methods and tools I've used in my own projects. Each group links t
 </div>
 
 <div class="card card--alt">
-<strong><i class="fas fa-code"></i> Programming and design software</strong><br>
-<div class="tools"><span class="tool"><img src="/images/tools/python.svg" alt="" width="18" height="18">Python</span><span class="tool"><img src="/images/tools/numpy.svg" alt="" width="18" height="18">NumPy</span><span class="tool"><img src="/images/tools/pandas.svg" alt="" width="18" height="18">pandas</span><span class="tool"><i class="fas fa-square-root-variable"></i>MATLAB</span><span class="tool"><img src="/images/tools/cplusplus.svg" alt="" width="18" height="18">C++</span><span class="tool"><img src="/images/tools/git.svg" alt="" width="18" height="18">Git</span><span class="tool"><img src="/images/tools/latex.svg" alt="" width="18" height="18">LaTeX</span><span class="tool"><img src="/images/tools/jupyter.svg" alt="" width="18" height="18">Jupyter</span><span class="tool"><img src="/images/tools/autocad.svg" alt="" width="18" height="18">AutoCAD</span><span class="tool"><i class="fas fa-building"></i>ETABS</span></div>
-<span>Python (NumPy, pandas, scikit-learn, PyTorch, Matplotlib), MATLAB, C++, Git and LaTeX. AutoCAD and ETABS for design.</span>
+<strong><i class="fas fa-code"></i> Programming</strong><br>
+<div class="tools"><span class="tool"><img src="/images/tools/python.svg" alt="" width="18" height="18">Python</span><span class="tool"><i class="fas fa-square-root-variable"></i>MATLAB</span></div>
+<span>I use Python mainly for data analysis, machine learning and automating PLAXIS runs, and MATLAB for engineering calculations. I write code to get my research done, not as a software developer.</span>
+</div>
+
+<div class="card">
+<strong><i class="fas fa-compass-drafting"></i> Design and drafting software</strong><br>
+<div class="tools"><span class="tool"><img src="/images/tools/autocad.svg" alt="" width="18" height="18">AutoCAD</span><span class="tool"><i class="fas fa-building"></i>ETABS</span></div>
+<span>AutoCAD for drawings and ETABS for structural analysis and design.</span>
 </div>
 
 </div>
