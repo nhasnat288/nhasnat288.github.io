@@ -12,6 +12,7 @@ location: "Sylhet, Bangladesh"
 
 ### Theory Courses
 - Geotechnical Engineering
+- Design of Steel Structure
 - Groundwater Engineering
 - Surveying
 

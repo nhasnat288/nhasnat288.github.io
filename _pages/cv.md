@@ -31,11 +31,17 @@ Two peer-reviewed journal articles, three manuscripts under review (one as first
 
 ## Technical Skills
 
-**Experimental investigation** — Custom test setups; strength, compressibility and permeability testing; UPV; SEM-EDS; image-based crack analysis.
+**Machine learning** — Bayesian neural networks, physics-informed neural networks, monotonicity-constrained architectures, transfer learning; LightGBM, XGBoost, CatBoost, random forest, ANN; symbolic regression by genetic programming; SHAP; Bayesian uncertainty quantification.
 
-**Numerical modeling and engineering software** — PLAXIS 2D/3D with Python automation for strength-reduction slope analysis; EPANET, SWMM and MODFLOW for water resources; AutoCAD and ETABS for design.
+**Numerical modeling** — PLAXIS 2D and 3D; PLAXIS Python remote-scripting API for large automated FEM campaigns; shear-strength-reduction (ΣMsf) analysis. EPANET, SWMM and MODFLOW for water resources; AutoCAD and ETABS for design.
 
-**Machine learning and programming** — Bayesian PINNs, uncertainty quantification, SHAP, gradient boosting, symbolic regression; Python (PyTorch, scikit-learn), MATLAB, C++.
+**Programming** — Python (NumPy, pandas, scikit-learn, PyTorch, SHAP, Matplotlib), MATLAB, C++, Git, LaTeX.
+
+**Laboratory testing** — Direct shear, unconfined compression, constant-head permeability, consolidation, compaction, Atterberg limits, ultrasonic pulse velocity.
+
+**Apparatus design** — Design, assembly and commissioning of custom test setups for non-standard test programmes.
+
+**Characterization and imaging** — SEM-EDS, calcium carbonate content determination, image-based crack analysis in ImageJ, Agisoft Metashape photogrammetry.
 
 **GIS and aerial survey** — QGIS; drone survey under CAAB rules; photogrammetry in Pix4D and Agisoft Metashape.
 
@@ -55,6 +61,7 @@ Two peer-reviewed journal articles, three manuscripts under review (one as first
 
 **Service** — Assistant General Secretary (2023–24) and Assistant IT Secretary (2022–23), Association of Civil and Environmental Engineering, SUST — led logistics for the Silver Jubilee and exCEEd 2023. Vice President (2023–24) and Cultural Secretary (2021–23), Aaj Muktomancho, SUST — ran theatre and scriptwriting workshops and led two community cultural events.
 
+**Volunteer** — 2022 Safe Water Project, Sylhet and Gowainghat (2021–22); Survey on Plastic Waste Generation in Sylhet, ESDO (2020–21).
 
 ---
 
