@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Mentors and Collaborators"
-permalink: /mentors-and-collaborators/
+title: "Supervisors and Collaborators"
+permalink: /collaborators/
 author_profile: true
 redirect_from:
   - /people/
+  - /mentors-and-collaborators/
 ---
 
 My research has been shaped by the people I have worked alongside. I joined Dr. Shriful Islam's research group at SUST in 2022 as an undergraduate, and that group is where I learned to plan experiments, build test setups and write for publication. Dr. Mohammad Shahidur Rahman then gave me the freedom to take on a biological approach to soil stabilization for my thesis. The friends I made in that group are still my closest collaborators, and since joining Leading University I have also had the guidance of senior colleagues in teaching and engineering practice. Many of these collaborations are ongoing.
@@ -76,7 +77,7 @@ My research has been shaped by the people I have worked alongside. I joined Dr. 
 <div class="person__body">
 <div class="person__name">Raied Ahmed Nishat</div>
 <div class="person__role">Civil engineering researcher, Georgia Southern University</div>
-<div class="person__note">Nishat was my junior at SUST, and we later worked together briefly at Leading University. We are now joint first authors on the Bayesian physics-informed neural network study for slope stability, which brings together automated finite element modelling and machine learning.</div>
+<div class="person__note">Nishat was my junior at SUST, and we later worked together briefly at Leading University. We have worked together on a study of slope stability using a Bayesian physics-informed neural network, which brings together automated finite element modelling and machine learning. The manuscript is in preparation for submission.</div>
 <div class="person__links">
 <a href="https://www.linkedin.com/in/raiedahmed"><i class="fab fa-linkedin"></i> LinkedIn</a>
 <a href="https://orcid.org/0009-0006-0448-3486"><i class="ai ai-orcid"></i> ORCID</a>
