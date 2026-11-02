@@ -12,7 +12,7 @@ These are the people I've worked with. I owe a lot of what I know to them.
 <div class="people-grid people-grid--feature">
 
 <div class="person">
-<img src="/images/people/msr.jpg" alt="Photo of Dr. Mohammad Shahidur Rahman" loading="lazy">
+<img src="/images/people/msr-2026.jpg" alt="Photo of Dr. Mohammad Shahidur Rahman" loading="lazy">
 <div class="person__body">
 <div class="person__name">Dr. Mohammad Shahidur Rahman</div>
 <div class="person__role">Professor and Head, Department of Civil and Environmental Engineering, SUST</div>
@@ -25,7 +25,7 @@ These are the people I've worked with. I owe a lot of what I know to them.
 </div>
 
 <div class="person">
-<img src="/images/people/shriful.jpg" alt="Photo of Dr. Shriful Islam" loading="lazy">
+<img src="/images/people/shriful-2026.jpg" alt="Photo of Dr. Shriful Islam" loading="lazy">
 <div class="person__body">
 <div class="person__name">Dr. Shriful Islam</div>
 <div class="person__role">Professor, Department of Civil and Environmental Engineering, SUST</div>
@@ -44,7 +44,7 @@ These are the people I've worked with. I owe a lot of what I know to them.
 <div class="people-grid">
 
 <div class="person">
-<img src="/images/people/nishat.jpg" alt="Photo of Raied Ahmed Nishat" loading="lazy">
+<img src="/images/people/nishat-2026.jpg" alt="Photo of Raied Ahmed Nishat" loading="lazy">
 <div class="person__body">
 <div class="person__name">Raied Ahmed Nishat</div>
 <div class="person__role">Civil engineering researcher, Georgia Southern University</div>
@@ -57,7 +57,7 @@ These are the people I've worked with. I owe a lot of what I know to them.
 </div>
 
 <div class="person">
-<img src="/images/people/ananya.jpg" alt="Photo of Ananya Soheli Chowdhury" loading="lazy">
+<img src="/images/people/ananya-2026.jpg" alt="Photo of Ananya Soheli Chowdhury" loading="lazy">
 <div class="person__body">
 <div class="person__name">Ananya Soheli Chowdhury</div>
 <div class="person__role">Lecturer, Department of Civil and Environmental Engineering, SUST</div>
@@ -70,7 +70,7 @@ These are the people I've worked with. I owe a lot of what I know to them.
 </div>
 
 <div class="person">
-<img src="/images/people/junaidul.jpg" alt="Photo of Junaidul Islam" loading="lazy">
+<img src="/images/people/junaidul-2026.jpg" alt="Photo of Junaidul Islam" loading="lazy">
 <div class="person__body">
 <div class="person__name">Junaidul Islam</div>
 <div class="person__role">PhD student, Geotechnical Engineering, Auburn University</div>
@@ -83,7 +83,7 @@ These are the people I've worked with. I owe a lot of what I know to them.
 </div>
 
 <div class="person">
-<img src="/images/people/amit.jpg" alt="Photo of Amit Chakraborty" loading="lazy">
+<img src="/images/people/amit-2026.jpg" alt="Photo of Amit Chakraborty" loading="lazy">
 <div class="person__body">
 <div class="person__name">Amit Chakraborty</div>
 <div class="person__role">Assistant Professor and Head (Acting), Department of Civil Engineering, Leading University</div>
