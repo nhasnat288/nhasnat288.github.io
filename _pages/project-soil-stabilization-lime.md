@@ -34,11 +34,11 @@ We added the materials in three stages, picking the dose at each stage that gave
 <div style="margin-bottom: 30px;">
 <h3>Compaction Response at Each Optimisation Stage</h3>
 <p>Optimum moisture content goes up and dry density goes down as lime and rice husk ash are added. The trend flips when eggshell powder goes in. The panels show (a) lime only, (b) lime with rice husk ash and (c) all three.</p>
-<img src="/images/research-projects/e9133c4a-d3ac-454e-b74d-b14914eb25b0-1785843274793_image.png" alt="Compaction response at each optimisation stage" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img loading="lazy" decoding="async" src="/images/research-projects/e9133c4a-d3ac-454e-b74d-b14914eb25b0-1785843274793_image.webp" alt="Compaction response at each optimisation stage" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 <p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 5px;"><em>Figure: Optimum moisture content and maximum dry density at each stage</em></p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>Staged Optimisation of Unconfined Compressive Strength</h3>
 <p>We added each material in turn and kept the best dose from the stage before. In every stage, strength goes up to a peak and then falls.</p>
-<img src="/images/research-projects/5c7e3105-f8b7-47c2-b93c-743261e4d224-1785843296457_image.png" alt="Staged optimisation of ternary additive blend" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img loading="lazy" decoding="async" src="/images/research-projects/5c7e3105-f8b7-47c2-b93c-743261e4d224-1785843296457_image.webp" alt="Staged optimisation of ternary additive blend" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">

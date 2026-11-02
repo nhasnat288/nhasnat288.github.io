@@ -52,14 +52,14 @@ There are two steps. First, boosted tree models learn the patterns as well as th
 <div style="margin-bottom: 30px;">
 <h3>Equation Versus Model Accuracy</h3>
 <p>How the equation and a plain linear regression compare with the best boosted model on the test set. For crack ratio, the equation is almost as accurate as the full model.</p>
-<img src="/images/research-projects/Desiccation_ML_Relative_Accuracy.png" alt="Relative accuracy of boosted model, closed-form equation and linear regression" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<img loading="lazy" decoding="async" src="/images/research-projects/Desiccation_ML_Relative_Accuracy.webp" alt="Relative accuracy of boosted model, closed-form equation and linear regression" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: Accuracy relative to the best gradient-boosted model, per crack measure</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>What Drives Each Crack Measure</h3>
 <p>Which groups of inputs matter most for each crack measure, based on permutation importance. The main factor is different for each one.</p>
-<img src="/images/research-projects/Desiccation_ML_Drivers.png" alt="Dominant, secondary and minor drivers of each crack measure" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<img loading="lazy" decoding="async" src="/images/research-projects/Desiccation_ML_Drivers.webp" alt="Dominant, secondary and minor drivers of each crack measure" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: Relative importance of each group of inputs, per crack measure</p>
 </div>
 

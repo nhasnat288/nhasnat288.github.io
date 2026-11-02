@@ -34,18 +34,18 @@ We did it in two phases. First, we tested polypropylene fiber at 0.25 to 1.5%. T
 <div style="margin-bottom: 30px;">
 <h3>Crack Volume Reduction with Fiber Reinforcement</h3>
 <p>Cracked specimens at fiber contents from 0 to 1.5%, with the binary images we used to measure crack area. Crack volume fell as we added more fiber, by up to 97.8% at 1.5%.</p>
-<img src="/images/research-projects/Desiccation_A.fiber%20Crack%20pattern%20image%20J.jpg" alt="Binarized crack patterns at different fiber proportions" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<img loading="lazy" decoding="async" src="/images/research-projects/Desiccation_A.fiber%20Crack%20pattern%20image%20J.webp" alt="Binarized crack patterns at different fiber proportions" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: Crack volume reduction achieved using different proportions of fiber</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>3D Photogrammetric Modeling</h3>
 <p>3D models of the cracked specimens made in Agisoft Metashape 2.0.1. These let us measure crack volume, not just crack area.</p>
-<img src="/images/research-projects/3D-model-generated-in-Agisoft-Metashape-201_W640.jpg" alt="3D model generated in Agisoft Metashape" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<img loading="lazy" decoding="async" src="/images/research-projects/3D-model-generated-in-Agisoft-Metashape-201_W640.webp" alt="3D model generated in Agisoft Metashape" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: 3D model of cracked soil specimen generated in Agisoft Metashape 2.0.1</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>Axial Stress–Strain Behavior</h3>
 <p>UCS of the untreated soil and the best mix (1.5% polyester fiber and 15% fly ash). Peak UCS went from 218.56 kPa to 317.04 kPa. You can see the fibers bridging the failure plane.</p>
-<img src="/images/research-projects/Axial-stress-vs-axial-strain-for-original-and-modified-soil_W640.jpg" alt="Axial stress vs axial strain for original and modified soil" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<img loading="lazy" decoding="async" src="/images/research-projects/Axial-stress-vs-axial-strain-for-original-and-modified-soil_W640.webp" alt="Axial stress vs axial strain for original and modified soil" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">

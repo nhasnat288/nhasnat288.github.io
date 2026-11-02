@@ -22,9 +22,10 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Natural zeolite, cellulose fiber, two-stage stabilization, drone survey, PLAXIS 2D, life cycle assessment</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/zeolite-cellulose.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/zeolite-cellulose.webp" aria-label="Animation: a drone maps the embankment and its slopes, the soil is treated with zeolite and then fiber, and the mix is tested in the lab, in PLAXIS 2D and for carbon cost." title="Animation: a drone maps the embankment and its slopes, the soil is treated with zeolite and then fiber, and the mix is tested in the lab, in PLAXIS 2D and for carbon cost.">
 <source src="/images/research-projects/Natural%20Zeolite%20and%20Cellulose%20Fiber%20Stabilization%20of%20Sunamganj%20Embankment%20Soil.mp4" type="video/mp4">
 </video>
+<p class="video-caption">A drone maps the embankment and its slopes, the soil is treated with zeolite and then fiber, and the mix is tested in the lab, in PLAXIS 2D and for carbon cost.</p>
 </div>
 </div>
 
@@ -38,9 +39,10 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Gradient boosting, symbolic regression, SHAP, desiccation cracking, embankment soil</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/desiccation-ml.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/desiccation-ml.webp" aria-label="Animation: published test data is collected into one dataset, boosted tree models are trained on it, and symbolic regression turns them into short equations." title="Animation: published test data is collected into one dataset, boosted tree models are trained on it, and symbolic regression turns them into short equations.">
 <source src="/images/research-projects/Gradient-Boosted%20and%20Symbolic%20Regression%20Modelling%20of%20Desiccation%20Cracking.mp4" type="video/mp4">
 </video>
+<p class="video-caption">Published test data is collected into one dataset, boosted tree models are trained on it, and symbolic regression turns them into short equations.</p>
 </div>
 </div>
 
@@ -54,9 +56,10 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Physics-informed neural networks, Bayesian deep learning, slope stability, geotechnical classification</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/slope-stability.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/slope-stability.webp" aria-label="Animation: automated PLAXIS 2D runs pretrain a Bayesian physics-informed network, which is compared with standard machine learning models on physical consistency." title="Animation: automated PLAXIS 2D runs pretrain a Bayesian physics-informed network, which is compared with standard machine learning models on physical consistency.">
 <source src="/images/research-projects/Physically%20Augmented%20B-PINN%20for%20Slope%20Stability%20Classification.mp4" type="video/mp4">
 </video>
+<p class="video-caption">Automated PLAXIS 2D runs pretrain a Bayesian physics-informed network, which is compared with standard machine learning models on physical consistency.</p>
 </div>
 </div>
 
@@ -73,9 +76,10 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Bio-cementation, cyanobacteria-induced calcite precipitation, sustainable soil stabilization, MICP</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/bio-cementation.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/bio-cementation.webp" aria-label="Animation: Arthrospira platensis is cultured, sand is treated and tested, and calcite forms between the sand grains." title="Animation: Arthrospira platensis is cultured, sand is treated and tested, and calcite forms between the sand grains.">
 <source src="/images/research-projects/Assessment%20of%20Bio-cementation%20Capability%20of%20Arthrospira%20platensis%20in%20Sand%20Solidification.mp4" type="video/mp4">
 </video>
+<p class="video-caption">Arthrospira platensis is cultured, sand is treated and tested, and calcite forms between the sand grains.</p>
 </div>
 </div>
 
@@ -89,9 +93,10 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Desiccation cracking, fiber reinforcement, fly ash stabilization, embankment soil, crack mitigation</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/desiccation-cracking.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/desiccation-cracking.webp" aria-label="Animation: cracked embankment soil is treated with polyester fiber and fly ash, and the cracks mostly disappear." title="Animation: cracked embankment soil is treated with polyester fiber and fly ash, and the cracks mostly disappear.">
 <source src="/images/research-projects/Mitigating%20Desiccation-Induced%20Cracking%20of%20Embankment%20Soil%20Using%20Fiber%20Reinforcement%20and%20Fly%20Ash.mp4" type="video/mp4">
 </video>
+<p class="video-caption">Cracked embankment soil is treated with polyester fiber and fly ash, and the cracks mostly disappear.</p>
 </div>
 </div>
 
@@ -105,9 +110,10 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Waste plastic fiber, fly ash, lime stabilization, desiccation remediation, embankment soil</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/embankment-soil.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/embankment-soil.webp" aria-label="Animation: waste plastic fiber, fly ash and lime are added in stages to cracked embankment soil, reducing the cracking." title="Animation: waste plastic fiber, fly ash and lime are added in stages to cracked embankment soil, reducing the cracking.">
 <source src="/images/research-projects/Remediation%20of%20Desiccation-Ridden%20Embankment%20Soil%20Using%20Waste%20Plastic%20Fiber%2C%20Fly%20Ash%2C%20and%20Lime.mp4" type="video/mp4">
 </video>
+<p class="video-caption">Waste plastic fiber, fly ash and lime are added in stages to cracked embankment soil, reducing the cracking.</p>
 </div>
 </div>
 
@@ -121,9 +127,10 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Lime stabilization, rice husk ash, eggshell powder, ternary soil stabilization, sustainable construction</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/soil-stabilization-lime.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/soil-stabilization-lime.webp" aria-label="Animation: lime, rice husk ash and eggshell powder are added in stages, and the soil structure becomes more flocculated." title="Animation: lime, rice husk ash and eggshell powder are added in stages, and the soil structure becomes more flocculated.">
 <source src="/images/research-projects/Ternary%20Stabilisation%20of%20Silty%20Subsoil%20Using%20Lime%2C%20Rice%20Husk%20Ash%2C%20and%20Eggshell%20Powder.mp4" type="video/mp4">
 </video>
+<p class="video-caption">Lime, rice husk ash and eggshell powder are added in stages, and the soil structure becomes more flocculated.</p>
 </div>
 </div>
 
@@ -137,8 +144,9 @@ The independent projects are ones I started myself or with collaborators after g
 <p><i class="fas fa-tags"></i> <strong>Key areas:</strong> Waste glass utilization, fly ash stabilization, sustainable geotechnical materials, pavement subgrade improvement</p>
 </div>
 <div class="project-card__media">
-<video autoplay muted loop playsinline preload="none" poster="/images/posters/sand-stabilization-cwg.jpg">
+<video autoplay muted loop playsinline preload="none" poster="/images/posters/sand-stabilization-cwg.webp" aria-label="Animation: crushed waste glass and fly ash replace part of the sand, and SEM shows the bonded microstructure." title="Animation: crushed waste glass and fly ash replace part of the sand, and SEM shows the bonded microstructure.">
 <source src="/images/research-projects/Geotechnical%20Application%20of%20Crushed%20Waste%20Glass%20and%20Fly%20Ash%20in%20Sand%20Replacement.mp4" type="video/mp4">
 </video>
+<p class="video-caption">Crushed waste glass and fly ash replace part of the sand, and SEM shows the bonded microstructure.</p>
 </div>
 </div>

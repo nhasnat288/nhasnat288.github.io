@@ -36,11 +36,11 @@ The model is a Bayesian physics-informed neural network. It is forced to respond
 <div style="margin-bottom: 30px;">
 <h3>Parameter-Space Coverage</h3>
 <p>The 2,000 FEM runs and the 275 field cases compared across the six inputs: height, slope angle, unit weight, cohesion, friction angle and pore pressure ratio. The FEM data covers a wider range, which is what makes it useful for pretraining.</p>
-<img src="/images/research-projects/Slope%20Stability_FEM%20Data.png" alt="Parameter-space coverage: synthetic vs reference cases" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<img loading="lazy" decoding="async" src="/images/research-projects/Slope%20Stability_FEM%20Data.webp" alt="Parameter-space coverage: synthetic vs reference cases" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: FEM runs vs. field cases across the six inputs</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>Physical Consistency of Candidate Models</h3>
 <p>(a) How often each model broke the rule for each input. Darker means more often. The B-PINN columns are blank because it can't break the rule. (b) Overall rule violations on a relative scale. Both B-PINN versions are at zero and every standard model is above it.</p>
-<img src="/images/research-projects/Slope%20Stability_Physical%20Consistancy.png" alt="Physical consistency of candidate models" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
+<img loading="lazy" decoding="async" src="/images/research-projects/Slope%20Stability_Physical%20Consistancy.webp" alt="Physical consistency of candidate models" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">

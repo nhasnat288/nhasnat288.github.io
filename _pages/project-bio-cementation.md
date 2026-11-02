@@ -40,7 +40,7 @@ I had to design the whole experiment from scratch, including the treatment and c
 <div style="margin: 20px 0;">
   <h3 style="margin-bottom: 10px;">Test Materials</h3>
   <p style="margin-bottom: 15px;">The sand and the culture used in the tests: (a) Ottawa sand, (b) the same sand at 40× magnification, showing its rounded grains, (c) the <em>Arthrospira platensis</em> culture, and (d) the culture at 40× magnification, showing the filaments.</p>
-  <img src="/images/research-projects/Biocementation_materials.png" alt="Ottawa sand and bacterial suspension images" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
+  <img loading="lazy" decoding="async" src="/images/research-projects/Biocementation_materials.webp" alt="Ottawa sand and bacterial suspension images" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 10px rgba(0,0,0,0.12); margin-bottom: 8px;">
   <p style="text-align: center; font-size: 0.85em; color: var(--global-text-color-light);"><em>(a) Ottawa sand, (b) Ottawa sand at 40× magnification, (c) Bacterial suspension, (d) Bacterial suspension at 40× magnification</em></p>
 </div>
 

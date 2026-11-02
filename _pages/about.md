@@ -38,19 +38,19 @@ After graduating, I started working with numerical models and machine learning. 
 
 <div class="work-grid">
 <a class="work-card" href="/research-projects/slope-stability/">
-<img src="/images/posters/slope-stability.jpg" alt="Bayesian PINN slope stability" loading="lazy">
+<img src="/images/posters/slope-stability.webp" alt="Bayesian PINN slope stability" loading="lazy">
 <div class="work-card__body"><div class="work-card__title">Slope stability prediction with Bayesian PINNs</div><div class="work-card__meta"><i class="fas fa-pen-nib"></i> Paper in preparation</div></div>
 </a>
 <a class="work-card" href="/research-projects/zeolite-cellulose/">
-<img src="/images/posters/zeolite-cellulose.jpg" alt="Zeolite and cellulose fiber stabilization" loading="lazy">
+<img src="/images/posters/zeolite-cellulose.webp" alt="Zeolite and cellulose fiber stabilization" loading="lazy">
 <div class="work-card__body"><div class="work-card__title">Zeolite and cellulose fiber in embankment soil</div><div class="work-card__meta"><i class="fas fa-user-tie"></i> PI, funded by CRISP</div></div>
 </a>
 <a class="work-card" href="/research-projects/desiccation-ml/">
-<img src="/images/posters/desiccation-ml.jpg" alt="Desiccation cracking modelling" loading="lazy">
+<img src="/images/posters/desiccation-ml.webp" alt="Desiccation cracking modelling" loading="lazy">
 <div class="work-card__body"><div class="work-card__title">Machine learning and equations for desiccation cracking</div><div class="work-card__meta"><i class="fas fa-spinner"></i> Ongoing</div></div>
 </a>
 <a class="work-card" href="/research-projects/bio-cementation/">
-<img src="/images/posters/bio-cementation.jpg" alt="Arthrospira platensis bio-cementation" loading="lazy">
+<img src="/images/posters/bio-cementation.webp" alt="Arthrospira platensis bio-cementation" loading="lazy">
 <div class="work-card__body"><div class="work-card__title">Bio-cementation of sand with <em>Arthrospira platensis</em></div><div class="work-card__meta"><i class="fas fa-file-lines"></i> First author, under review</div></div>
 </a>
 </div>
