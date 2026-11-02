@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 A site planned for a three-storey house had weak silty soil near the surface. Deep or raft foundations would have cost too much, so the soil needed to be improved enough for simple shallow footings. We tried lime together with two farm wastes that are easy to find locally, rice husk ash and eggshell powder.
 
@@ -19,7 +19,7 @@ We added the materials in three stages, picking the dose at each stage that gave
 
 ---
 
-## <i class="fas fa-lightbulb"></i> Key Findings
+## Key Findings
 
 - The best mix (**4% lime, 10% rice husk ash, 3% eggshell powder**) lowered the plasticity index by **58.6%**, so the soil is much easier to work with.
 - UCS more than doubled, rising by **103.3%** over the untreated soil.
@@ -29,7 +29,7 @@ We added the materials in three stages, picking the dose at each stage that gave
 
 ---
 
-## <i class="fas fa-chart-line"></i> Experimental Analysis
+## Experimental Analysis
 
 <div style="margin-bottom: 30px;">
 <h3>Compaction Response at Each Optimisation Stage</h3>

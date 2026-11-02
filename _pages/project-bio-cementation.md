@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 This was my undergraduate thesis. I wanted to see if the cyanobacterium *Arthrospira platensis* (spirulina) could cement loose sand by making calcium carbonate between the grains. This process is called microbially induced carbonate precipitation (MICP). Most MICP work uses soil bacteria, and very little of it has been tried in Bangladesh.
 
@@ -25,7 +25,7 @@ I had to design the whole experiment from scratch, including the treatment and c
 
 ---
 
-## <i class="fas fa-lightbulb"></i> Key Findings
+## Key Findings
 
 - *Arthrospira platensis* did produce calcite inside the sand, so it works as a bio-cementing agent.
 - The lowest concentration, 0.25 M, gave the **highest UCS** (about 470 kPa). Using more solution did not make the sand stronger.
@@ -35,7 +35,7 @@ I had to design the whole experiment from scratch, including the treatment and c
 
 ---
 
-## <i class="fas fa-chart-line"></i> Experimental Analysis
+## Experimental Analysis
 
 <div style="margin: 20px 0;">
   <h3 style="margin-bottom: 10px;">Test Materials</h3>

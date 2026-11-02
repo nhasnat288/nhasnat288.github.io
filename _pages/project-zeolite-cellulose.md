@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 I'm the Principal Investigator on this project. Emad Ahmed, a Lecturer at Leading University, is the Co-Investigator. CRISP at Leading University funds it, and I supervise two B.Sc. students on the lab and modelling work.
 
@@ -28,7 +28,7 @@ The project has four parts. A drone survey of the embankments helps us pick wher
 
 ---
 
-## <i class="fas fa-diagram-project"></i> Methodology
+## Methodology
 
 <div style="margin: 20px 0;">
 <img loading="lazy" decoding="async" src="/images/research-projects/Zeolite_Cellulose_Methodology.webp" alt="Experimental programme: site selection, soil characterization, two-stage treatment, strength testing" style="width: 100%; max-width: 760px; display: block; margin: 0 auto; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
@@ -53,7 +53,7 @@ We won't pick the best mix on strength alone. Strength, the SEM results, the fac
 
 ---
 
-## <i class="fas fa-circle-question"></i> What we intend to find out
+## What we intend to find out
 
 - Does adding zeolite first and fiber second make the soil stronger in shear and UCS, and what are the best doses?
 - What does SEM-EDS show about how zeolite changes the soil and how the fiber bonds to it?
@@ -62,7 +62,7 @@ We won't pick the best mix on strength alone. Strength, the SEM results, the fac
 
 ---
 
-## <i class="fas fa-route"></i> Why this approach
+## Why this approach
 
 We based the order and the doses on earlier studies. When fiber was added to soil already treated with a chemical additive, strength went up at each stage. Lime has also been shown to protect natural fiber from rotting. Zeolite has worked at around 5 to 13% in past studies, and natural fiber usually works best between 0.4 and 1%. Above that, the fibers clump and strength drops. Zeolite-treated soil keeps getting stronger from 7 to 28 days, so we picked those curing times.
 
@@ -72,6 +72,6 @@ Related: [Remediation of desiccation-ridden embankment soil using waste plastic 
 
 ---
 
-## <i class="fas fa-hand-holding-dollar"></i> Grant
+## Grant
 
 **Principal Investigator:** Evaluating the Effectiveness of Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil: Experimental Investigation, Life Cycle Assessment, and Numerical Modelling. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, 2026. Co-Investigator: Emad Ahmed.

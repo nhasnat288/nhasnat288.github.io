@@ -7,7 +7,7 @@ author_profile: true
 
 I've taught at Leading University for two years. I started as an adjunct lecturer in November 2024 and became full time in October 2025. Teaching slope stability and foundations is also what got me into computational work. While teaching these topics, I was reading machine learning papers on the same problems and noticed that many of them didn't agree with the basics I was teaching.
 
-## <i class="fas fa-chalkboard-user"></i> Current Position
+## Current Position
 
 **Lecturer**, Department of Civil Engineering, Leading University, Bangladesh
 *(October 2025 to present)*
@@ -50,7 +50,7 @@ I've taught at Leading University for two years. I started as an adjunct lecture
 
 ---
 
-## <i class="fas fa-clock-rotate-left"></i> Previous Position
+## Previous Position
 
 **Adjunct Lecturer**, Department of Civil Engineering, Leading University, Bangladesh
 *(November 2024 to October 2025)*
@@ -88,11 +88,11 @@ I've taught at Leading University for two years. I started as an adjunct lecture
 
 ---
 
-## <i class="fas fa-list-check"></i> Other Work
+## Other Work
 
 I help with syllabus development and with the department's Self-Assessment Report for BAETE accreditation. I also counsel students and supervise undergraduate research.
 
-## <i class="fas fa-user-graduate"></i> Supervision
+## Supervision
 
 I supervise two B.Sc. students on the lab tests and finite element modelling for my [zeolite and cellulose fiber project](/research-projects/zeolite-cellulose/).
 

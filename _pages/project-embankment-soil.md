@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 The flood embankments along the haor in Tahirpur, Sunamganj, crack every dry season, and the cracks weaken them. We tried to fix this soil by adding three materials one after another. First we added waste plastic fiber (0.5 to 2%), then fly ash (5 to 20%), and then lime (2 to 8%).
 
@@ -19,7 +19,7 @@ The best mix was **2% fiber, 15% fly ash and 6% lime**. It raised CBR by **242.8
 
 ---
 
-## <i class="fas fa-lightbulb"></i> Key Findings
+## Key Findings
 
 - **CBR** went from 2.10% to 7.20%, which meets the subgrade requirement for embankments.
 - **UCS** went from 74 kPa to 185 kPa as we added each material.
@@ -29,7 +29,7 @@ The best mix was **2% fiber, 15% fly ash and 6% lime**. It raised CBR by **242.8
 
 ---
 
-## <i class="fas fa-chart-line"></i> Experimental Analysis
+## Experimental Analysis
 
 <div style="text-align: center; margin: 30px 0;">
   <img loading="lazy" decoding="async" src="/images/research-projects/1fff365a-8828-4456-964c-12ccf4015c5d-1785843436122_image.webp" alt="CBR bearing capacity results across three optimisation stages" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 5px;">

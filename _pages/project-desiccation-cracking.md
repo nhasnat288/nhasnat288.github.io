@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 Embankment soil cracks as it dries. The cracks let water in during floods and speed up erosion. In this project we tried to reduce the cracking with fiber, with and without fly ash.
 
@@ -19,7 +19,7 @@ We did it in two phases. First, we tested polypropylene fiber at 0.25 to 1.5%. T
 
 ---
 
-## <i class="fas fa-lightbulb"></i> Key Findings
+## Key Findings
 
 - 1.5% fiber cut the surface crack ratio by **96.4%** and the crack volume ratio by **97.8%**.
 - 1.5% polyester fiber with 15% fly ash gave the **highest UCS, 317.04 kPa**. That's 45% more than the untreated soil.
@@ -29,7 +29,7 @@ We did it in two phases. First, we tested polypropylene fiber at 0.25 to 1.5%. T
 
 ---
 
-## <i class="fas fa-chart-line"></i> Experimental Analysis
+## Experimental Analysis
 
 <div style="margin-bottom: 30px;">
 <h3>Crack Volume Reduction with Fiber Reinforcement</h3>

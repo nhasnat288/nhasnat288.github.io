@@ -14,7 +14,7 @@ The second line is computational. While teaching slope stability, I noticed that
 
 I am also the Principal Investigator of a project funded by the Centre for Research, Innovative Studies and Planning (CRISP), Leading University, which tests natural zeolite and cellulose fiber as low-carbon stabilizers for embankment soil. The project combines a drone survey, laboratory testing, finite element modelling and life cycle assessment.
 
-## <i class="fas fa-graduation-cap"></i> At a Glance
+## At a Glance
 
 <div class="glance">
 <div><span class="glance__num">2</span><span class="glance__label">Journal articles</span></div>
@@ -25,24 +25,24 @@ I am also the Principal Investigator of a project funded by the Centre for Resea
 </div>
 
 <ul class="icon-list">
-<li><i class="fas fa-fw fa-briefcase"></i> <strong>Lecturer</strong>, Department of Civil Engineering, Leading University (October 2025 to present); Adjunct Lecturer (November 2024 to October 2025)</li>
-<li><i class="fas fa-fw fa-flask"></i> <strong>Research and Technical Assistant</strong>, Department of Civil and Environmental Engineering, SUST (June 2022 to August 2024)</li>
-<li><i class="fas fa-fw fa-graduation-cap"></i> <strong>B.Sc. in Civil and Environmental Engineering</strong>, SUST (2024), CGPA 3.76/4.00</li>
-<li><i class="fas fa-fw fa-award"></i> <strong>Principal Investigator</strong>, CRISP research grant, Leading University (2026)</li>
+<li><strong>Lecturer</strong>, Department of Civil Engineering, Leading University (October 2025 to present); Adjunct Lecturer (November 2024 to October 2025)</li>
+<li><strong>Research and Technical Assistant</strong>, Department of Civil and Environmental Engineering, SUST (June 2022 to August 2024)</li>
+<li><strong>B.Sc. in Civil and Environmental Engineering</strong>, SUST (2024), CGPA 3.76/4.00</li>
+<li><strong>Principal Investigator</strong>, CRISP research grant, Leading University (2026)</li>
 </ul>
 
-## <i class="fas fa-microscope"></i> Research Interests
+## Research Interests
 
 <ul class="icon-list">
-<li><i class="fas fa-fw fa-layer-group"></i> Soil stabilization and ground improvement</li>
-<li><i class="fas fa-fw fa-bacterium"></i> Biostabilization and MICP</li>
-<li><i class="fas fa-fw fa-house-flood-water"></i> Geohazard assessment and mitigation</li>
-<li><i class="fas fa-fw fa-brain"></i> Physics-informed and Bayesian machine learning</li>
-<li><i class="fas fa-fw fa-chart-area"></i> Uncertainty quantification and surrogate modelling</li>
-<li><i class="fas fa-fw fa-recycle"></i> Waste materials in geotechnical construction</li>
+<li>Soil stabilization and ground improvement</li>
+<li>Biostabilization and MICP</li>
+<li>Geohazard assessment and mitigation</li>
+<li>Physics-informed and Bayesian machine learning</li>
+<li>Uncertainty quantification and surrogate modelling</li>
+<li>Waste materials in geotechnical construction</li>
 </ul>
 
-## <i class="far fa-newspaper"></i> News
+## News
 
 <ul class="news">
 <li><span class="news__date">Sep 2026</span> <span>Completed the IEB training on applications of drone technology in civil engineering.</span></li>
@@ -53,29 +53,29 @@ I am also the Principal Investigator of a project funded by the Centre for Resea
 <li><span class="news__date">Oct 2025</span> <span>Appointed Lecturer in the Department of Civil Engineering, Leading University.</span></li>
 </ul>
 
-## <i class="fas fa-star"></i> Selected Work
+## Selected Work
 
 <div class="work-grid">
 <a class="work-card" href="/research-projects/slope-stability/">
 <img src="/images/posters/slope-stability.webp" alt="Bayesian PINN slope stability" loading="lazy">
-<div class="work-card__body"><div class="work-card__title">Slope stability prediction with Bayesian PINNs</div><div class="work-card__meta"><i class="fas fa-pen-nib"></i> Paper in preparation</div></div>
+<div class="work-card__body"><div class="work-card__title">Slope stability prediction with Bayesian PINNs</div><div class="work-card__meta">Paper in preparation</div></div>
 </a>
 <a class="work-card" href="/research-projects/zeolite-cellulose/">
 <img src="/images/posters/zeolite-cellulose.webp" alt="Zeolite and cellulose fiber stabilization" loading="lazy">
-<div class="work-card__body"><div class="work-card__title">Zeolite and cellulose fiber in embankment soil</div><div class="work-card__meta"><i class="fas fa-user-tie"></i> PI, funded by CRISP</div></div>
+<div class="work-card__body"><div class="work-card__title">Zeolite and cellulose fiber in embankment soil</div><div class="work-card__meta">PI, funded by CRISP</div></div>
 </a>
 <a class="work-card" href="/research-projects/desiccation-ml/">
 <img src="/images/posters/desiccation-ml.webp" alt="Desiccation cracking modelling" loading="lazy">
-<div class="work-card__body"><div class="work-card__title">Machine learning and equations for desiccation cracking</div><div class="work-card__meta"><i class="fas fa-spinner"></i> Ongoing</div></div>
+<div class="work-card__body"><div class="work-card__title">Machine learning and equations for desiccation cracking</div><div class="work-card__meta">Ongoing</div></div>
 </a>
 <a class="work-card" href="/research-projects/bio-cementation/">
 <img src="/images/posters/bio-cementation.webp" alt="Arthrospira platensis bio-cementation" loading="lazy">
-<div class="work-card__body"><div class="work-card__title">Bio-cementation of sand with <em>Arthrospira platensis</em></div><div class="work-card__meta"><i class="fas fa-file-lines"></i> First author, under review</div></div>
+<div class="work-card__body"><div class="work-card__title">Bio-cementation of sand with <em>Arthrospira platensis</em></div><div class="work-card__meta">First author, under review</div></div>
 </a>
 </div>
 
 A full list of projects is on the [research](/research-projects/) page, and all papers are on the [publications](/publications/) page.
 
 <div class="contact-box">
-<p><i class="fas fa-envelope"></i> If my work aligns with your group's research, I would welcome the chance to discuss it. You can reach me at <a href="mailto:n.hasnat_ce@lus.ac.bd">n.hasnat_ce@lus.ac.bd</a>. Manuscripts under review are available on request.</p>
+<p>If my work aligns with your group's research, I would welcome the chance to discuss it. You can reach me at <a href="mailto:n.hasnat_ce@lus.ac.bd">n.hasnat_ce@lus.ac.bd</a>. Manuscripts under review are available on request.</p>
 </div>

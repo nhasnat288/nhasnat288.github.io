@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-## <i class="fas fa-id-card"></i> In Short
+## In Short
 
 **Lecturer**, Department of Civil Engineering, Leading University, Sylhet. October 2025 to present. Adjunct Lecturer at the same department from November 2024 to October 2025. I also work on syllabus development and the BAETE accreditation report, counsel students and supervise undergraduate research.
 
@@ -29,7 +29,7 @@ Two journal papers, three papers under review (one as first and corresponding au
 
 ---
 
-## <i class="fas fa-screwdriver-wrench"></i> Technical Skills
+## Technical Skills
 
 **Machine learning:** Bayesian neural networks, physics-informed neural networks, monotonicity-constrained architectures, transfer learning; LightGBM, XGBoost, CatBoost, random forest, ANN; symbolic regression by genetic programming; SHAP; Bayesian uncertainty quantification.
 
@@ -47,7 +47,7 @@ Two journal papers, three papers under review (one as first and corresponding au
 
 ---
 
-## <i class="fas fa-hand-holding-dollar"></i> Grants and Funded Research
+## Grants and Funded Research
 
 **Principal Investigator:** Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, 2026 to present. Includes a drone survey, lab testing, finite element modelling and a life cycle assessment.
 
@@ -55,7 +55,7 @@ Two journal papers, three papers under review (one as first and corresponding au
 
 ---
 
-## <i class="fas fa-people-group"></i> Training and Service
+## Training and Service
 
 **Training:** Applications of Drone Technology in Civil Engineering, 12 h, Institution of Engineers, Bangladesh (September 2026); Design of RCC Structures to BNBC 2020, 72 h, Public Works Department, Bangladesh (December 2024).
 

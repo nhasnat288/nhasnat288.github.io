@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 This was my first research project. It was also where I first learned how a research study is actually run.
 
@@ -24,7 +24,7 @@ We did the work in two parts:
 
 ---
 
-## <i class="fas fa-lightbulb"></i> Key Findings
+## Key Findings
 
 - Replacing **10 to 20%** of the sand with glass gave similar or better compaction and shear strength than sand alone.
 - Above 30% glass, shear strength started to drop.
@@ -34,7 +34,7 @@ We did the work in two parts:
 
 ---
 
-## <i class="fas fa-chart-line"></i> Experimental Analysis
+## Experimental Analysis
 
 <div style="margin: 20px 0;">
   <h3 style="margin-bottom: 10px;">SEM-EDS Microstructural Analysis</h3>

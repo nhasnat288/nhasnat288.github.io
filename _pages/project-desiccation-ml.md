@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 My lab work on cracking showed how much a given additive helped in one soil under one set of drying conditions. It didn't show which factors matter most across many soils, climates and treatments. That's what an engineer needs to know before picking a fix.
 
@@ -21,7 +21,7 @@ There are two steps. First, boosted tree models learn the patterns as well as th
 
 ---
 
-## <i class="fas fa-diagram-project"></i> Methodology
+## Methodology
 
 1. **Collecting the data.** I gathered test results from published studies into one dataset and removed duplicate and repeated inputs.
 
@@ -37,7 +37,7 @@ There are two steps. First, boosted tree models learn the patterns as well as th
 
 ---
 
-## <i class="fas fa-lightbulb"></i> Key Findings
+## Key Findings
 
 - The boosted models beat the random forest for all three crack measures. No single model was best for all three.
 - **Each crack measure has a different main driver.** The things that decide how much of the surface cracks are not the same as the ones that decide crack width or crack count. So a single "cracking" number hides a lot.
@@ -47,7 +47,7 @@ There are two steps. First, boosted tree models learn the patterns as well as th
 
 ---
 
-## <i class="fas fa-chart-line"></i> Analysis
+## Analysis
 
 <div style="margin-bottom: 30px;">
 <h3>Equation Versus Model Accuracy</h3>
@@ -65,7 +65,7 @@ There are two steps. First, boosted tree models learn the patterns as well as th
 
 ---
 
-## <i class="fas fa-route"></i> Why this matters
+## Why this matters
 
 This builds on my lab work on cracking. Those studies measured how much fiber, fly ash and lime reduced cracking in haor embankment soil. This one asks which of those factors matter most when soil, climate and treatment all change, and gives the answer as equations you can use without running a model.
 

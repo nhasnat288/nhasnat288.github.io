@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <i class="fas fa-book-open"></i> Research in Brief
+## Research in Brief
 
 I was teaching slope stability while reading machine learning papers on the same topic. Many of those models gave answers that went against what I was teaching in class. For example, a model could fit a slope database well and still say a slope gets safer as it gets taller. This project tries to fix that.
 
@@ -21,7 +21,7 @@ The model is a Bayesian physics-informed neural network. It is forced to respond
 
 ---
 
-## <i class="fas fa-lightbulb"></i> Key Findings
+## Key Findings
 
 - The B-PINN had **zero rule violations**. The standard models broke the rule in **19 to 31%** of tests outside the training range.
 - McNemar's test found **no significant difference** in accuracy between any of the 15 model pairs. So accuracy alone can't tell these models apart.
@@ -31,7 +31,7 @@ The model is a Bayesian physics-informed neural network. It is forced to respond
 
 ---
 
-## <i class="fas fa-chart-line"></i> Experimental Analysis
+## Experimental Analysis
 
 <div style="margin-bottom: 30px;">
 <h3>Parameter-Space Coverage</h3>
