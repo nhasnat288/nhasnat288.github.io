@@ -83,8 +83,12 @@ The soil with the optimum mix was then compared with the raw soil through Atterb
 
 ---
 
-## Publication
+## Publications
+
+**Journal article**
 
 Islam, S., Chowdhury, A. S., Hasnat, N., Alam, M. J. B., and Islam, J. (2025). Mitigating desiccation cracking in embankment soil using polyester fiber and fly ash. *Geotechnical and Geological Engineering*, 43, 277. [doi:10.1007/s10706-025-03224-w](https://doi.org/10.1007/s10706-025-03224-w)
 
-An earlier stage of this work, on fiber reinforcement alone, was presented at ICACE 2024.
+**Conference paper**
+
+Islam, S., Chowdhury, A. S., Hasnat, N., Islam, J., Alam, M. J. B., and Saha, P. (2024). Assessing fiber-reinforcement for reduction of desiccation-induced cracking of embankment soil. *Proceedings of the International Conference on Advances in Civil Engineering (ICACE 2024)*, CUET, Chattogram, Bangladesh, 1244–1251. This paper reported the earlier stage of the work, on fiber reinforcement alone.

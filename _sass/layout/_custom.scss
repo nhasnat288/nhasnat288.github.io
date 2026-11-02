@@ -357,3 +357,6 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--geo-accent); ou
 }
 
 .fig img { display: block; margin: 0 auto; max-width: min(100%, 680px) !important; }
+
+.people-grid--feature .person__note { text-align: left; margin-top: 0.4em; }
+.person__note { line-height: 1.55; }

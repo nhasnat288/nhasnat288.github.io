@@ -63,6 +63,10 @@ This was my first research project, and it introduced me to planning and running
 
 ## Publications
 
+**Journal article**
+
 Islam, S., Islam, J., Alam, M. J. B., Chowdhury, A. S., Hasnat, N., Rafe, M. T. A., and Jubair, S. A. A. (2024). Partial replacement of sand by fine-grained crushed waste glass along with fly ash stabilization for geotechnical applications in pavement. *Heliyon*, 10(19), e38754. [doi:10.1016/j.heliyon.2024.e38754](https://doi.org/10.1016/j.heliyon.2024.e38754)
 
-An earlier stage of this work, on glass replacement alone, was presented at ICCESD 2024.
+**Conference paper**
+
+Islam, S., Alam, M. J. B., Islam, J., Chowdhury, A. S., Hasnat, N., Rafe, M. T. A., and Jubair, S. A. A. (2024). Partial replacement of sand with glass waste for geotechnical applications. *Proceedings of the 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024)*, KUET, Khulna, Bangladesh, Paper ID ICCESD_2024_0018. This paper reported the earlier stage of the work, on glass replacement alone.
