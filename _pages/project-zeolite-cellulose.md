@@ -11,13 +11,13 @@ author_profile: true
 
 ## Research in Brief
 
+I'm the Principal Investigator on this project, with Emad Ahmed (Lecturer, Leading University) as Co-Investigator. It is funded by the Centre for Research, Innovative Studies and Planning (CRISP) at Leading University, and I'm supervising two B.Sc. students on the testing and modelling work.
+
 The flood-control embankments around the haor wetlands in Sunamganj get rebuilt more or less every year. The soil is weak and fine-grained, it dries out and cracks through the summer, and then the monsoon finds the cracks. Most of the fixes that get proposed for this soil are cement or lime, which work but are expensive to truck in and carry a carbon cost that nobody accounts for.
 
 This study asks whether adding natural zeolite first and cellulose fiber second can make that soil stronger and more stable, at a lower environmental cost than cement or lime. Zeolite goes in at the first stage and is left to cure, so the soil matrix is treated before anything else. Cellulose fiber goes in at the second stage, mixed into the already-treated soil and compacted, to hold it together mechanically. The two additives are meant to do different jobs, so they get dosed in sequence rather than mixed and optimised together.
 
 Four things run alongside each other. A drone survey of the embankments, to pick the sampling sites from what the sections actually look like in the field. A laboratory programme on soil taken from those embankments. Finite element modelling of the treated embankment section, to see whether the laboratory gains hold up at the scale the material is actually used. And a life cycle assessment, because "sustainable" should mean something measurable rather than a word in the abstract.
-
-I'm the Principal Investigator, with Emad Ahmed (Lecturer, Leading University) as Co-Investigator. The project is funded by the Centre for Research, Innovative Studies and Planning (CRISP) at Leading University, and I'm supervising two B.Sc. students on the testing and modelling work.
 
 **Research Period:** July 2026 – June 2027 &nbsp;|&nbsp; **Status:** Ongoing, funded by CRISP &nbsp;|&nbsp; **Role:** Principal Investigator
 
@@ -72,23 +72,6 @@ Related: [Remediation of desiccation-ridden embankment soil using waste plastic 
 
 ---
 
-## Timeline
-
-| Stage | Period |
-|---|---|
-| Literature review | July – September 2026 |
-| Preliminary survey and initial soil collection | September – October 2026 |
-| Drone survey and field study | November 2026 |
-| Index property characterization | November 2026 – January 2027 |
-| Two-stage treatment and curing | December 2026 – February 2027 |
-| Direct shear and UCS testing | February – April 2027 |
-| SEM-EDS microstructural analysis | March – April 2027 |
-| PLAXIS 2D modelling and validation | March – June 2027 |
-| Life cycle assessment | April – May 2027 |
-| Data analysis, report writing and publication | May – June 2027 |
-
----
-
 ## Grant
 
-**Principal Investigator** — Evaluating the Effectiveness of Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil: Experimental Investigation, Life Cycle Assessment, and Numerical Modelling. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, July 2026 – June 2027. Co-Investigator: Emad Ahmed.
+**Principal Investigator** — Evaluating the Effectiveness of Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil: Experimental Investigation, Life Cycle Assessment, and Numerical Modelling. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, 2026. Co-Investigator: Emad Ahmed.
