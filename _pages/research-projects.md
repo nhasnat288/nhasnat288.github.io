@@ -9,9 +9,10 @@ Eight projects, listed from the most recent to the earliest. Each page says what
 
 The independent work is research I've taken on through my own initiative and collaborations after graduating, rather than as part of a supervised programme. The undergraduate work was done at SUST as a Research and Technical Assistant, funded by the SUST Research Centre.
 
-## Independent Research Experience
-
----
+<div style="margin: 40px 0 10px; padding: 14px 18px; background: rgba(82,173,200,0.12); border-left: 6px solid #52adc8; border-radius: 4px;">
+<h2 style="margin: 0; border: none; font-size: 1.5em;">Independent Research Experience</h2>
+<p style="margin: 4px 0 0; font-size: 0.9em; opacity: 0.8;">Research taken on through my own initiative and collaborations</p>
+</div>
 
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 280px;">
@@ -45,8 +46,6 @@ The independent work is research I've taken on through my own initiative and col
 
 ---
 
----
-
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 280px;">
 <h3><a href="/research-projects/slope-stability/" style="color: #52adc8; text-decoration: none;">Physically Admissible Slope-Stability Prediction Using Bayesian Physics-Informed Neural Networks</a></h3>
@@ -61,11 +60,10 @@ The independent work is research I've taken on through my own initiative and col
 </div>
 </div>
 
----
-
-## Undergraduate Research Experience
-
----
+<div style="margin: 40px 0 10px; padding: 14px 18px; background: rgba(82,173,200,0.12); border-left: 6px solid #52adc8; border-radius: 4px;">
+<h2 style="margin: 0; border: none; font-size: 1.5em;">Undergraduate Research Experience</h2>
+<p style="margin: 4px 0 0; font-size: 0.9em; opacity: 0.8;">Research and Technical Assistant, Department of Civil and Environmental Engineering, SUST</p>
+</div>
 
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 280px;">
