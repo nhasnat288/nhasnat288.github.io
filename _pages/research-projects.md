@@ -70,7 +70,7 @@ The independent projects are ones I started myself or with collaborators after g
 
 <div class="project-card">
 <div class="project-card__text">
-<h3><a href="/research-projects/bio-cementation/">Assessment of Bio-cementation Capability of <em>Arthrospira platensis</em> in Sand Solidification</a></h3>
+<h3><a href="/research-projects/bio-cementation/"><em>Arthrospira platensis</em> as an Alternative Bioagent for Microbially Induced Carbonate Precipitation</a></h3>
 <p><strong>Status:</strong> First-author manuscript under review at <em>Geosystems and Geoenvironment</em> &nbsp;|&nbsp; <strong>Duration:</strong> 2023 – 2024</p>
 <p>This was my undergraduate thesis. I treated Ottawa sand with <em>Arthrospira platensis</em> and a calcium chloride and urea solution at five concentrations. Then I measured permeability, shear strength and ultrasonic pulse velocity. Permeability dropped by 71.9% at 1.00 M, and shear strength was highest at 0.60 M. SEM-EDS confirmed that calcite was holding the grains together.</p>
 <p><strong>Key areas:</strong> Bio-cementation, cyanobacteria-induced calcite precipitation, sustainable soil stabilization, MICP</p>

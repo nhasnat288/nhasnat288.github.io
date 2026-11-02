@@ -11,4 +11,4 @@ project: '/research-projects/bio-cementation/'
 bibtexurl: '/files/bib/rahman2024biocementation.bib'
 ---
 
-This paper presents research on bio-cementation of sand using cyanobacteria-induced calcite precipitation as a sustainable approach to soil stabilization. Presented at ICACE 2024, CUET.
+This paper reported the preliminary stage of my undergraduate thesis, based on unconfined compression testing at four concentrations. The extended study is under review as a separate journal manuscript. Presented at ICACE 2024, CUET.

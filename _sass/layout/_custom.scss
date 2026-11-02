@@ -355,3 +355,5 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--geo-accent); ou
   li { position: relative; padding-left: 1.1em; }
   li::before { content: ""; position: absolute; left: 0; top: 0.62em; width: 6px; height: 6px; background: var(--geo-accent); }
 }
+
+.fig img { display: block; margin: 0 auto; max-width: min(100%, 680px) !important; }
