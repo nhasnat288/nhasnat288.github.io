@@ -41,9 +41,9 @@ The first two are computational and the third is the one I'm running as Principa
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 280px;">
 <h3><a href="/research-projects/zeolite-cellulose/" style="color: #52adc8; text-decoration: none;">Natural Zeolite and Cellulose Fiber Stabilization of Sunamganj Embankment Soil</a></h3>
-<p><strong>Status:</strong> Ongoing, funded by CRISP &nbsp;|&nbsp; <strong>Role:</strong> Principal Investigator &nbsp;|&nbsp; <strong>Duration:</strong> 2026 – Present</p>
-<p>A two-stage stabilization study on the flood-control embankments around the haor wetlands of Sunamganj — cellulose fiber first for mechanical restraint, then natural zeolite for water retention. A drone-based DEM survey of the embankments, laboratory testing, finite element modelling and life cycle assessment run in parallel. I'm the Principal Investigator, supervising two B.Sc. students on the testing and modelling.</p>
-<p><strong>Key areas:</strong> Cellulose fiber, natural zeolite, desiccation cracking, life cycle assessment, embankment stability</p>
+<p><strong>Status:</strong> Ongoing, funded by CRISP &nbsp;|&nbsp; <strong>Role:</strong> Principal Investigator &nbsp;|&nbsp; <strong>Duration:</strong> July 2026 – June 2027</p>
+<p>A two-stage stabilization study on the flood-control embankments around the haor wetlands of Sunamganj — natural zeolite first (5–20%, cured), then cellulose fiber (0.25–1.0%, compacted), as a lower-carbon alternative to cement and lime. A drone-based DEM survey picks the sampling sites; direct shear, UCS and SEM-EDS find the optimum mix; PLAXIS 2D checks the factor of safety of the treated embankment; and a life cycle assessment compares it against a conventional stabilizer. I'm the Principal Investigator, supervising two B.Sc. students on the testing and modelling.</p>
+<p><strong>Key areas:</strong> Natural zeolite, cellulose fiber, two-stage stabilization, drone survey, PLAXIS 2D, life cycle assessment</p>
 </div>
 </div>
 
