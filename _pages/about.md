@@ -20,7 +20,8 @@ I am also the Principal Investigator of a project funded by the Centre for Resea
 <div><span class="glance__num">2</span><span class="glance__label">Journal articles</span></div>
 <div><span class="glance__num">3</span><span class="glance__label">Manuscripts under review</span></div>
 <div><span class="glance__num">3</span><span class="glance__label">Conference papers</span></div>
-<div><span class="glance__num">5</span><span class="glance__label">Funded projects</span></div>
+<div><span class="glance__num">8</span><span class="glance__label">Research projects</span></div>
+<div><span class="glance__num">1</span><span class="glance__label">Funded project as PI</span></div>
 <div><span class="glance__num">2</span><span class="glance__label">Years of teaching</span></div>
 </div>
 
