@@ -25,7 +25,7 @@ The study evaluated the effect of different treatment concentrations (0.25M, 0.5
 
 3. **Microstructural Analysis** — using SEM imaging to observe calcite crystal formation and bonding at the particle level.
 
-**Research Period:** June 2022 – August 2024 &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
+**Research Period:** 2023 – 2024 &nbsp;|&nbsp; **Funding:** SUST Research Centre (AS/2023/1/19) &nbsp;|&nbsp; **Status:** First-author manuscript under review at *Geosystems and Geoenvironment* &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
 
 ---
 
@@ -33,7 +33,7 @@ The study evaluated the effect of different treatment concentrations (0.25M, 0.5
 
 - *Arthrospira platensis* successfully induced calcite precipitation within sand matrices, demonstrating viable bio-cementation capability.
 - Lower molar concentrations (0.25M) yielded the **highest UCS values** (~470 kPa), indicating that moderate treatment concentrations are more effective than higher ones.
-- Permeability reduction reached up to **72.79%** at 1.00M concentration, confirming significant pore-filling by precipitated calcite. [[CONFIRM: does the site's UCS series belong to the earlier conference paper? CV and cover letter report 71.9% and five concentrations with direct shear peaking at 0.60 M]]
+- Permeability reduction reached up to **72.79%** at 1.00M concentration, confirming significant pore-filling by precipitated calcite.
 - SEM analysis confirmed the formation of calcite crystals bridging sand particles, validating the bio-cementation mechanism.
 - The findings establish *Arthrospira platensis* as a promising agent for bio-cementation at pilot scale. Whether it scales to field conditions in Bangladesh is a separate question, and the in-situ facilities to test that aren't here yet.
 

@@ -14,6 +14,7 @@ location: "Sylhet, Bangladesh"
 - Geotechnical Engineering
 - Design of Steel Structure
 - Groundwater Engineering
+- Surveying
 
 ### Sessional / Lab Courses
 - Environmental Engineering Sessional
@@ -22,6 +23,8 @@ location: "Sylhet, Bangladesh"
 ### Curriculum Design & Assessment
 - Participated in syllabus design, review, and moderation
 - Question preparation and exam moderation
+- Preparation of the BAETE accreditation Self-Assessment Report
+- Student counselling and supervision of undergraduate research
 
 ### Research Activities
 - *Experimental Characterization and Slope Hazard Assessment of Sylhet Region Using FEM*

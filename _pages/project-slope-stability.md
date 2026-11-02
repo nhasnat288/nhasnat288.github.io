@@ -17,7 +17,7 @@ I put together a database of 275 circular-failure slope cases from fourteen publ
 
 The model is a Bayesian physics-informed network with hard monotonicity constraints on six governing parameters. The constraint sits in the architecture, not in the loss function, so every posterior draw respects it and there is no weight to tune. Tuned classical baselines — random forest, SVM, ANN, BNN — score slightly higher on cross-validated accuracy. All of them violate monotonicity. This one cannot, including outside its training range. Pretraining on the FEM data improved cross-validated accuracy in all five folds.
 
-**Status:** Manuscript in preparation. Joint first-author work with R. A. Nishat. [[CONFIRM: preferred name format for the co-author]]
+**Research Period:** December 2025 – August 2026 &nbsp;|&nbsp; **Status:** Manuscript in preparation. Joint first-author work with R. A. Nishat; I'm the corresponding author.
 
 ---
 

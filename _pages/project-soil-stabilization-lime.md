@@ -15,7 +15,7 @@ Weak near-surface soils at the site of a proposed three-storey residential build
 
 Additive percentages were optimised in three sequential stages, each targeting minimisation of the plasticity index, and the resulting mixtures were characterised by Atterberg limit, modified Proctor compaction, unconfined compressive strength, and scanning electron microscopy tests. The optimum blend of 4% lime, 10% RHA, and 3% ESP reduced the plasticity index by 58.6% and the maximum dry density by 7%, while raising the optimum moisture content by 13.1% and the unconfined compressive strength by 103.3%. SEM imaging showed enhanced flocculation and fewer voids in the treated matrix.
 
-**Research Period:** [[CONFIRM: project period — card says 2022–2023, page previously said 2025–Present]] &nbsp;|&nbsp; **Status:** Manuscript under review at *Results in Materials*
+**Research Period:** 2022 – 2024 &nbsp;|&nbsp; **Status:** Manuscript under review at *Journal of Material Cycles and Waste Management*
 
 ---
 

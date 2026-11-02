@@ -15,7 +15,7 @@ This research investigates the mitigation of desiccation-induced cracking in emb
 
 The research was conducted in two phases. The initial phase assessed polypropylene fiber reinforcement at varying proportions (0.25%–1.5%) to optimize crack reduction in desiccation-prone soil. The second, more comprehensive phase introduced polyester fiber reinforcement combined with 15% fly ash (FA), evaluating geotechnical properties including Atterberg limits, compaction, free swell, California bearing ratio, unconfined compressive strength, and microstructural characteristics through SEM and 3D photogrammetric modeling.
 
-**Research Period:** June 2022 – August 2024 &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
+**Research Period:** 2023 – 2024 &nbsp;|&nbsp; **Status:** Published in *Geotechnical and Geological Engineering* (2025) &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
 
 ---
 

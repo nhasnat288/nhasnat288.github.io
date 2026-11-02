@@ -5,7 +5,7 @@ permalink: /teaching-experience/
 author_profile: true
 ---
 
-I've been teaching at Leading University since the end of 2024, first as an adjunct and full time since October 2025. Teaching is what pushed me toward the computational side of geotechnics — I was working through slope stability and foundations with students while reading data-driven papers on the same problems, and the gap between the two is where my current research came from.
+I've been teaching at Leading University since November 2024, first as an adjunct and full time since October 2025 — two years now. Teaching is what pushed me toward the computational side of geotechnics — I was working through slope stability and foundations with students while reading data-driven papers on the same problems, and the gap between the two is where my current research came from.
 
 ## Current Position
 
@@ -87,6 +87,10 @@ I've been teaching at Leading University since the end of 2024, first as an adju
 </div>
 
 ---
+
+## Beyond the Classroom
+
+I'm involved in syllabus development and in preparing the department's Self-Assessment Report for BAETE accreditation of the B.Sc. Civil Engineering program. I also do student counselling and supervise undergraduate research.
 
 ## Supervision
 

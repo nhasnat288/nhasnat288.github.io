@@ -13,6 +13,8 @@ author_profile: true
 
 Flood-control embankments along haor wetlands in Tahirpur, Sunamganj (northeastern Bangladesh) suffer repeated desiccation-induced cracking that compromises structural integrity. This study develops a three-stage additive optimisation strategy — first waste plastic fiber (WPF, 0.5–2%), then fly ash (FA, 5–20%), then lime (2–8%) — to remediate the host soil. The optimum blend of **2% WPF + 15% FA + 6% Lime** delivers a **242.85% CBR increase**, **150% UCS gain**, **91.17% crack volume reduction**, and **83.54% surface cracking reduction**, while consolidation properties also improve (14.06% higher coefficient of consolidation, 27.17% lower compression index). Desiccation performance is quantified through ImageJ binary-image analysis and Agisoft Metashape digital elevation modelling (DEM).
 
+**Research Period:** 2022 – 2024 &nbsp;|&nbsp; **Status:** Manuscript under review at *Indian Geotechnical Journal* &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
+
 ---
 
 ## Key Findings

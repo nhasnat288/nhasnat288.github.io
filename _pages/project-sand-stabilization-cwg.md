@@ -23,7 +23,7 @@ The study was conducted in two phases:
 
 2. **Phase II — CWG + Fly Ash stabilization:** Optimizing the combined effect of crushed waste glass and fly ash to enhance the mechanical performance of the sand–glass composite for pavement applications. Fly ash was introduced at varying percentages (5%, 10%, 15%) with an optimized glass content to improve strength and reduce swelling.
 
-**Research Period:** June 2022 – August 2024 &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
+**Research Period:** 2022 – 2023 &nbsp;|&nbsp; **Status:** Published in *Heliyon* (2024) &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
 
 ---
 

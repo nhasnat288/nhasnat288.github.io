@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Natural Zeolite and Cellulose Fiber Stabilization of Haor Embankment Soil"
+title: "Natural Zeolite and Cellulose Fiber Stabilization of Sunamganj Embankment Soil"
 permalink: /research-projects/zeolite-cellulose/
 author_profile: true
 ---
@@ -15,11 +15,11 @@ The flood-control embankments around the haor wetlands in Sunamganj get rebuilt 
 
 This study tests a two-stage alternative: cellulose fiber first, to hold the soil together mechanically as it dries, then natural zeolite, which is cheap, locally available, and holds water in a way that should slow the drying itself. The two additives are meant to do different jobs, so they get dosed in sequence rather than mixed and optimised together.
 
-Three things run in parallel. A laboratory programme on soil taken from the embankments themselves. A life cycle assessment, because "sustainable" should mean something measurable rather than a word in the abstract. And finite element modelling of the treated embankment section, to see whether the laboratory gains hold up at the scale the material is actually used.
+Four things run in parallel. A drone-based DEM survey of the embankments, to tie the sampling to what the sections actually look like in the field. A laboratory programme on soil taken from the embankments themselves. A life cycle assessment, because "sustainable" should mean something measurable rather than a word in the abstract. And finite element modelling of the treated embankment section, to see whether the laboratory gains hold up at the scale the material is actually used.
 
-I'm the Principal Investigator. The proposal is under review at the Centre for Research, Innovative Studies and Planning (CRISP) at Leading University, and I'm supervising two B.Sc. students on the testing and modelling work.
+I'm the Principal Investigator. The project is funded by the Centre for Research, Innovative Studies and Planning (CRISP) at Leading University, and I'm supervising two B.Sc. students on the testing and modelling work.
 
-**Research Period:** 2026 – Present &nbsp;|&nbsp; **Status:** Proposal under review &nbsp;|&nbsp; **Role:** Principal Investigator
+**Research Period:** 2026 – Present &nbsp;|&nbsp; **Status:** Ongoing, funded by CRISP &nbsp;|&nbsp; **Role:** Principal Investigator
 
 ---
 
@@ -43,4 +43,4 @@ Related: [Remediation of desiccation-ridden embankment soil using waste plastic 
 
 ## Grant
 
-**Principal Investigator** — Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, 2026. Proposal under review.
+**Principal Investigator** — Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, 2026 – present.
