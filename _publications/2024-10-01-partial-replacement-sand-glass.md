@@ -11,7 +11,7 @@ citation: 'Islam, S., Islam, J., Alam, M. J. B., Chowdhury, A. S., <b>Hasnat, N.
 doi: '10.1016/j.heliyon.2024.e38754'
 project: '/research-projects/sand-stabilization-cwg/'
 bibtexurl: '/files/bib/islam2024partial.bib'
-role: 'Found the optimum crushed glass and fly ash proportions for the subgrade mix and characterized the microstructure by SEM-EDS.'
+role: 'I found the best glass and fly ash contents for the subgrade mix and did the SEM-EDS work.'
 ---
 
 This research investigates the partial replacement of sand with fine-grained crushed waste glass combined with fly ash stabilization for geotechnical applications in pavement.

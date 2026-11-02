@@ -203,3 +203,15 @@
   background: var(--geo-soft);
   color: var(--geo-ink);
 }
+
+/* Icon bullet list */
+.icon-list {
+  list-style: none;
+  margin: 0.4em 0 1.4em;
+  padding: 0;
+  li { margin: 0 0 0.45em; }
+  i { color: var(--geo-accent); margin-right: 0.45em; }
+}
+.page__content h2 i, .archive h2 i, .section-banner h2 i { color: var(--geo-accent); margin-right: 0.25em; font-size: 0.85em; }
+.project-card__text p i, .work-card__meta i, .pub__role i, .contact-box i, .card strong i { color: var(--geo-accent); margin-right: 0.2em; }
+.pub__btn i { margin-right: 0.25em; }

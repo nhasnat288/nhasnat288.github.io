@@ -9,36 +9,36 @@ author_profile: true
 
 ---
 
-## Research in Brief
+## <i class="fas fa-book-open"></i> Research in Brief
 
-Weak near-surface soils at the site of a proposed three-storey residential building required improvement to permit isolated shallow footings, deep and raft foundations being uneconomical. This study evaluates a ternary blend of lime with two locally available, calcium- and silica-rich agricultural wastes — rice husk ash (RHA) and eggshell powder (ESP) — as a stabiliser for the silty subsoil.
+A site planned for a three-storey house had weak silty soil near the surface. Deep or raft foundations would have cost too much, so the soil needed to be improved enough for simple shallow footings. We tried lime together with two farm wastes that are easy to find locally, rice husk ash and eggshell powder.
 
-Additive percentages were optimised in three sequential stages, each targeting minimisation of the plasticity index, and the resulting mixtures were characterised by Atterberg limit, modified Proctor compaction, unconfined compressive strength, and scanning electron microscopy tests. The optimum blend of 4% lime, 10% RHA, and 3% ESP reduced the plasticity index by 58.6% and the maximum dry density by 7%, while raising the optimum moisture content by 13.1% and the unconfined compressive strength by 103.3%. SEM imaging showed enhanced flocculation and fewer voids in the treated matrix.
+We added the materials in three stages, picking the dose at each stage that gave the lowest plasticity index. We then ran Atterberg limit, modified Proctor, UCS and SEM tests. The best mix was 4% lime, 10% rice husk ash and 3% eggshell powder. It lowered the plasticity index by 58.6% and raised the UCS by 103.3%. Maximum dry density fell by 7% and optimum moisture content rose by 13.1%. SEM showed the treated soil had more flocculation and fewer voids.
 
 **Research Period:** 2022 – 2024 &nbsp;|&nbsp; **Status:** Manuscript under review at *Journal of Material Cycles and Waste Management*
 
 ---
 
-## Key Findings
+## <i class="fas fa-lightbulb"></i> Key Findings
 
-- The optimum ternary blend of **4% lime + 10% RHA + 3% ESP** reduced the plasticity index by **58.6%**, indicating a significant improvement in workability
-- Unconfined compressive strength increased by **103.3%** over untreated soil, confirming substantial strength gain from the combined treatment
-- Maximum dry density decreased by **7%** while optimum moisture content rose by **13.1%**, consistent with the flocculated, open fabric produced by lime–pozzolan reactions
-- Each additive stage showed an **interior optimum** — strength rises to a maximum, then falls as the dose increases further — validating the sequential optimisation approach
-- SEM imaging confirmed **enhanced flocculation and fewer voids** in the treated matrix, explaining the macroscopic strength and plasticity improvements
+- The best mix (**4% lime, 10% rice husk ash, 3% eggshell powder**) lowered the plasticity index by **58.6%**, so the soil is much easier to work with.
+- UCS more than doubled, rising by **103.3%** over the untreated soil.
+- Maximum dry density fell by **7%** and optimum moisture content rose by **13.1%**. This is typical when lime reacts with ash and the soil flocculates.
+- At every stage, strength went up to a peak and then dropped as we added more. That's why we added the materials one at a time.
+- SEM images showed **more flocculation and fewer voids**, which explains the gain in strength.
 
 ---
 
-## Experimental Analysis
+## <i class="fas fa-chart-line"></i> Experimental Analysis
 
 <div style="margin-bottom: 30px;">
 <h3>Compaction Response at Each Optimisation Stage</h3>
-<p>Moisture demand and dry density move in opposite directions as lime and ash are added, and the trend reverses once the calcium-rich waste enters the blend. Each panel corresponds to one optimisation stage: (a) lime alone, (b) lime + RHA, and (c) lime + RHA + ESP.</p>
+<p>Optimum moisture content goes up and dry density goes down as lime and rice husk ash are added. The trend flips when eggshell powder goes in. The panels show (a) lime only, (b) lime with rice husk ash and (c) all three.</p>
 <img src="/images/research-projects/e9133c4a-d3ac-454e-b74d-b14914eb25b0-1785843274793_image.png" alt="Compaction response at each optimisation stage" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-<p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 5px;"><em>Figure: Compaction response — optimum moisture content and maximum dry density at each stage</em></p>
+<p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 5px;"><em>Figure: Optimum moisture content and maximum dry density at each stage</em></p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>Staged Optimisation of Unconfined Compressive Strength</h3>
-<p>Each additive is dosed in turn, holding the previous optimum fixed. Every stage shows an interior peak — strength rises to a maximum, then falls as the dose increases further — confirming the sequential optimisation strategy.</p>
+<p>We added each material in turn and kept the best dose from the stage before. In every stage, strength goes up to a peak and then falls.</p>
 <img src="/images/research-projects/5c7e3105-f8b7-47c2-b93c-743261e4d224-1785843296457_image.png" alt="Staged optimisation of ternary additive blend" style="width: 100%; max-width: 900px; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">

@@ -12,7 +12,7 @@ site_theme               : "geo"
 title                    : "Nabid Hasnat"
 title_separator          : "-"
 name                     : &name "Nabid Hasnat"
-description              : &description "Geotechnical engineer and Lecturer at Leading University, Sylhet. Soil stabilization, physics-informed machine learning and geohazard mitigation. Seeking a funded graduate position for Fall 2027."
+description              : &description "Lecturer in Civil Engineering at Leading University, Sylhet. I work on soil stabilization, geohazards and machine learning for geotechnical problems."
 url                      : https://nhasnat288.github.io
 baseurl                  : ""
 repository               : "nhasnat288/nhasnat288.github.io"
@@ -24,7 +24,7 @@ author:
   name             : "Nabid Hasnat"
   pronouns         :
   bio              : "Lecturer<br>Department of Civil Engineering<br>Leading University"
-  status           : "Seeking a funded graduate position · Fall 2027"
+  status           : "Looking for a graduate position"
   location         : "Sylhet, Bangladesh"
   employer         :
   uri              :

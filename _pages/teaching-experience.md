@@ -5,12 +5,12 @@ permalink: /teaching-experience/
 author_profile: true
 ---
 
-I've been teaching at Leading University since November 2024, first as an adjunct and full time since October 2025 — two years now. Teaching is what pushed me toward the computational side of geotechnics — I was working through slope stability and foundations with students while reading data-driven papers on the same problems, and the gap between the two is where my current research came from.
+I've taught at Leading University for two years. I started as an adjunct lecturer in November 2024 and became full time in October 2025. Teaching slope stability and foundations is also what got me into computational work. While teaching these topics, I was reading machine learning papers on the same problems and noticed that many of them didn't agree with the basics I was teaching.
 
-## Current Position
+## <i class="fas fa-chalkboard-user"></i> Current Position
 
 **Lecturer**, Department of Civil Engineering, Leading University, Bangladesh
-*(October 2025 -- Present)*
+*(October 2025 to present)*
 
 ### Courses Taught
 
@@ -50,10 +50,10 @@ I've been teaching at Leading University since November 2024, first as an adjunc
 
 ---
 
-## Previous Position
+## <i class="fas fa-clock-rotate-left"></i> Previous Position
 
 **Adjunct Lecturer**, Department of Civil Engineering, Leading University, Bangladesh
-*(November 2024 -- October 2025)*
+*(November 2024 to October 2025)*
 
 ### Courses Taught
 
@@ -61,22 +61,22 @@ I've been teaching at Leading University since November 2024, first as an adjunc
 
 <div class="card card--alt">
 <strong>Engineering Materials</strong><br>
-<span>Properties, testing, and applications of construction materials including cement, concrete, steel, timber, and polymers.</span>
+<span>Properties and testing of cement, concrete, steel, timber and other building materials.</span>
 </div>
 
 <div class="card card--alt">
 <strong>Mechanics of Solids</strong><br>
-<span>Stress-strain relationships, axial loading, torsion, bending, shear, and combined loading in structural members.</span>
+<span>Stress and strain, axial load, torsion, bending, shear and combined loading.</span>
 </div>
 
 <div class="card card--alt">
 <strong>Ecology</strong><br>
-<span>Ecological principles, environmental systems, biodiversity, and environmental impact assessment in civil engineering contexts.</span>
+<span>Basic ecology, ecosystems, biodiversity and environmental impact assessment for civil engineers.</span>
 </div>
 
 <div class="card card--alt">
 <strong>Details of Construction Sessional</strong><br>
-<span>Practical sessional on construction detailing and methods.</span>
+<span>Lab course on construction details and methods.</span>
 </div>
 
 <div class="card card--alt">
@@ -88,11 +88,11 @@ I've been teaching at Leading University since November 2024, first as an adjunc
 
 ---
 
-## Beyond the Classroom
+## <i class="fas fa-list-check"></i> Other Work
 
-I'm involved in syllabus development and in preparing the department's Self-Assessment Report for BAETE accreditation of the B.Sc. Civil Engineering program. I also do student counselling and supervise undergraduate research.
+I help with syllabus development and with the department's Self-Assessment Report for BAETE accreditation. I also counsel students and supervise undergraduate research.
 
-## Supervision
+## <i class="fas fa-user-graduate"></i> Supervision
 
-I'm currently supervising two B.Sc. students on the laboratory testing and finite element modelling for the [zeolite and cellulose fiber project](/research-projects/zeolite-cellulose/).
+I supervise two B.Sc. students on the lab tests and finite element modelling for my [zeolite and cellulose fiber project](/research-projects/zeolite-cellulose/).
 

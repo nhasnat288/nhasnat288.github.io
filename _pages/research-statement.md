@@ -5,37 +5,33 @@ permalink: /research-statement/
 author_profile: true
 ---
 
-## The question
+I want to work on making weak and problem soils safer and cheaper to build on, using both lab testing and computer models.
 
-Every geotechnical decision rests on a description of the ground. Sometimes that description is physical: a stabilized soil whose strength we measured in the laboratory, a slope we modelled in finite elements. Sometimes it is learned: a model trained on a database of past cases. Either way, it was built under a limited set of conditions, and it gets used under others. A stabilizer that works on one soil in one climate gets proposed for another. A model trained on a few hundred slopes gets asked about a slope it has never seen.
+## <i class="fas fa-flask"></i> What I've done so far
 
-The question I keep coming back to is whether those descriptions still hold once they are pushed outside the conditions they were built on, and how to make them hold.
+My undergraduate research at SUST was almost all lab work on soil stabilization. I tested crushed waste glass and fly ash as a partial sand replacement for pavement subgrade. I worked on fiber and fly ash to reduce cracking in embankment soil as it dries. I tried lime with rice husk ash and eggshell powder on a silty soil. For my thesis, I used a cyanobacterium, *Arthrospira platensis*, to cement sand.
 
----
+These projects taught me to build my own test setups when the standard ones didn't fit. They also showed me how much the microstructure explains. A strength test tells you that a soil got stronger. SEM usually tells you why.
 
-## Where I'm coming from
+## <i class="fas fa-mountain"></i> Why the field matters to me
 
-**From the laboratory.** My undergraduate research was experimental, almost entirely on sustainable soil improvement: crushed waste glass and fly ash in pavement subgrade, fiber and chemical additives against desiccation cracking in embankment soil, lime blended with rice husk ash and eggshell powder for silty clay, and microbially induced carbonate precipitation using a cyanobacterium. Across all of it, I learned that the number on the test sheet is only as good as the setup that produced it, and that the microstructure usually explains what the strength test only reports.
+I grew up in Sunamganj. The flood embankments there crack badly in the dry season and get repaired almost every year. Two of my projects used soil from these embankments. That work taught me that a lab result only matters if it still works in the field.
 
-**From the field.** Most of these problems come from the region I grew up in. The haor embankments of Sunamganj crack every dry season and get rebuilt almost every year. That makes the transfer question concrete: a result is only useful if it survives the move from a laboratory mould to an embankment section.
+## <i class="fas fa-laptop-code"></i> How I started using models
 
-**From computation.** Since graduating, I've moved toward numerical and data-driven methods. Teaching slope stability while reading the data-driven literature on the same problem, I kept seeing models that fitted their databases well and still predicted things the mechanics rules out. That led to physics-constrained learning, large automated finite element campaigns, and interpretable models that can be checked against what an engineer already knows.
+After graduating I started teaching slope stability. I was also reading machine learning papers on the same topic, and many of the models broke basic soil mechanics. Some predicted that a slope gets safer as it gets taller. So I built a Bayesian physics-informed network that can't make that kind of mistake. I trained it partly on 3,000 PLAXIS 2D runs that I automated with Python. I'm now using gradient boosting and symbolic regression to find what drives desiccation cracking.
 
----
+## <i class="fas fa-compass"></i> What I'd like to work on next
 
-## What I want to work on
+I'm flexible on the exact topic. These are the areas I'm most interested in:
 
-I'm open about the specific problem. The direction I'd like to keep is this:
+- Ground improvement, including bio-based and low-carbon methods, with a focus on why a treatment works and where it stops working.
+- Problem soils and geohazards, such as cracking, erosion and slope failure.
+- Machine learning that respects the physics, gives honest uncertainty, and can be checked against what engineers already know.
+- Using lab and numerical results together, so that each one makes the other more reliable.
 
-- **Ground improvement that can be trusted beyond the test programme.** Understanding why a stabilizer works, through mechanism and microstructure, well enough to say where it will and won't transfer to other soils, climates and loading.
-- **Learned models that respect the mechanics.** Machine learning for geotechnical problems with physical constraints built in, uncertainty quantified honestly, and behaviour checked outside the training range rather than only on held-out data.
-- **Bridging the two.** Using laboratory and numerical results to train, constrain and validate data-driven models, and using those models to decide which experiments are actually worth running.
-- **Sustainability that is measured.** Low-carbon and waste-based materials judged on performance and life cycle impact together.
+## <i class="fas fa-toolbox"></i> What I bring
 
----
+I can design and run a lab programme from start to finish, including custom setups. I can survey a site with a drone and model it in PLAXIS. I can also build and test machine learning models in Python. I've taught core geotechnical courses for two years, which has made me better at explaining my work clearly.
 
-## What I bring
-
-Hands-on laboratory experience, including designing and building custom test setups; field survey and drone-based mapping; automated finite element modelling in PLAXIS through Python; and Bayesian and physics-informed machine learning. Two years of teaching core geotechnical courses have also made me careful about explaining *why* a result holds, not just reporting that it does.
-
-More detail is on the [research](/research-projects/) and [skills](/skills/) pages.
+You can see the details on the [research](/research-projects/) and [skills](/skills/) pages.

@@ -9,7 +9,7 @@ venue: 'Under review, Indian Geotechnical Journal'
 citation: 'Islam, S., <b>Hasnat, N.</b>, Chowdhury, A. S., Alam, M. J. B., Ullah, A., Islam, J., Hasan, M., &amp; Nafis, F. &quot;Stabilization of Desiccation-Ridden Haor Soil in the Northeastern Bangladesh Using Waste Plastic Fiber, Fly Ash, and Lime.&quot; Under review, <i>Indian Geotechnical Journal</i>.'
 status: 'Under review'
 project: '/research-projects/embankment-soil/'
-role: 'Ran the laboratory investigation, including the desiccation tests and image-based crack measurement.'
+role: 'I ran the lab work, including the cracking tests and measuring the cracks from images.'
 ---
 
 Waste plastic fiber, fly ash and lime were dosed in three sequential stages on desiccation-ridden embankment soil from Tahirpur, Sunamganj. The optimum blend of 2% WPF, 15% FA and 6% lime raised CBR by 242.85% and UCS by 150%, and cut crack volume by 91.17% and surface cracking by 83.54%.

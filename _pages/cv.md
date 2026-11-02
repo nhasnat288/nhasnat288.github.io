@@ -15,53 +15,53 @@ redirect_from:
 
 ---
 
-## In short
+## <i class="fas fa-id-card"></i> In Short
 
-**Lecturer**, Department of Civil Engineering, Leading University, Sylhet — October 2025 to present. Adjunct Lecturer at the same department from November 2024 to October 2025. Alongside teaching, I'm involved in syllabus development, the BAETE accreditation report, student counselling, and supervision of undergraduate research.
+**Lecturer**, Department of Civil Engineering, Leading University, Sylhet. October 2025 to present. Adjunct Lecturer at the same department from November 2024 to October 2025. I also work on syllabus development and the BAETE accreditation report, counsel students and supervise undergraduate research.
 
-**Research and Technical Assistant**, Department of Civil and Environmental Engineering, SUST — June 2022 to August 2024.
+**Research and Technical Assistant**, Department of Civil and Environmental Engineering, SUST. June 2022 to August 2024.
 
 **B.Sc. in Civil and Environmental Engineering**, Shahjalal University of Science and Technology, 2024. CGPA 3.76/4.00, with distinction. Thesis: *Biocalcification Potential of Arthrospira platensis for Sand Solidification*, supervised by Dr. Mohammad Shahidur Rahman, funded by the SUST Research Centre (AS/2023/1/19).
 
-Two peer-reviewed journal articles, three manuscripts under review (one as first and corresponding author), three conference papers, one manuscript in preparation, and one funded project as Principal Investigator.
+Two journal papers, three papers under review (one as first and corresponding author), one paper in preparation, three conference papers and one funded project as PI.
 
-**English** — IELTS 7.5 overall (Listening C2; Reading, Writing, Spoken Production and Interaction C1).
-
----
-
-## Technical Skills
-
-**Machine learning** — Bayesian neural networks, physics-informed neural networks, monotonicity-constrained architectures, transfer learning; LightGBM, XGBoost, CatBoost, random forest, ANN; symbolic regression by genetic programming; SHAP; Bayesian uncertainty quantification.
-
-**Numerical modeling** — PLAXIS 2D and 3D; PLAXIS Python remote-scripting API for large automated FEM campaigns; shear-strength-reduction (ΣMsf) analysis. EPANET, SWMM and MODFLOW for water resources; AutoCAD and ETABS for design.
-
-**Programming** — Python (NumPy, pandas, scikit-learn, PyTorch, SHAP, Matplotlib), MATLAB, C++, Git, LaTeX.
-
-**Laboratory testing** — Direct shear, unconfined compression, constant-head permeability, consolidation, compaction, Atterberg limits, ultrasonic pulse velocity.
-
-**Apparatus design** — Design, assembly and commissioning of custom test setups for non-standard test programmes.
-
-**Characterization and imaging** — SEM-EDS, calcium carbonate content determination, image-based crack analysis in ImageJ, Agisoft Metashape photogrammetry.
-
-**GIS and aerial survey** — QGIS; drone survey under CAAB rules; photogrammetry in Pix4D and Agisoft Metashape.
+**English:** IELTS 7.5 overall (Listening C2; Reading, Writing, Spoken Production and Interaction C1).
 
 ---
 
-## Grants and Funded Research
+## <i class="fas fa-screwdriver-wrench"></i> Technical Skills
 
-**Principal Investigator** — Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, 2026 – present. Drone-based DEM survey, laboratory testing, finite element modelling and life cycle assessment.
+**Machine learning:** Bayesian neural networks, physics-informed neural networks, monotonicity-constrained architectures, transfer learning; LightGBM, XGBoost, CatBoost, random forest, ANN; symbolic regression by genetic programming; SHAP; Bayesian uncertainty quantification.
 
-**Research and Technical Assistant** — Contributed to proposal preparation and carried out the experimental programme on four funded SUST Research Centre projects: AS/2023/1/19, AS/2023/1/16 (2023–24); AS/2022/1/13, AS/2022/1/24 (2022–23).
+**Numerical modeling:** PLAXIS 2D and 3D; PLAXIS Python remote-scripting API for large automated FEM campaigns; shear-strength-reduction (ΣMsf) analysis. EPANET, SWMM and MODFLOW for water resources; AutoCAD and ETABS for design.
+
+**Programming:** Python (NumPy, pandas, scikit-learn, PyTorch, SHAP, Matplotlib), MATLAB, C++, Git, LaTeX.
+
+**Laboratory testing:** Direct shear, unconfined compression, constant-head permeability, consolidation, compaction, Atterberg limits, ultrasonic pulse velocity.
+
+**Apparatus design:** Design, assembly and commissioning of custom test setups for non-standard test programmes.
+
+**Characterization and imaging:** SEM-EDS, calcium carbonate content determination, image-based crack analysis in ImageJ, Agisoft Metashape photogrammetry.
+
+**GIS and aerial survey:** QGIS; drone survey under CAAB rules; photogrammetry in Pix4D and Agisoft Metashape.
 
 ---
 
-## Professional Development and Service
+## <i class="fas fa-hand-holding-dollar"></i> Grants and Funded Research
 
-**Training** — Applications of Drone Technology in Civil Engineering, 12 h, Institution of Engineers, Bangladesh (September 2026); Design of RCC Structures to BNBC 2020, 72 h, Public Works Department, Bangladesh (December 2024).
+**Principal Investigator:** Natural Zeolite and Cellulose Fiber Addition in Sunamganj Embankment Soil. Centre for Research, Innovative Studies and Planning (CRISP), Leading University, 2026 to present. Includes a drone survey, lab testing, finite element modelling and a life cycle assessment.
 
-**Service** — Assistant General Secretary (2023–24) and Assistant IT Secretary (2022–23), Association of Civil and Environmental Engineering, SUST — led logistics for the Silver Jubilee and exCEEd 2023. Vice President (2023–24) and Cultural Secretary (2021–23), Aaj Muktomancho, SUST — ran theatre and scriptwriting workshops and led two community cultural events.
+**Research and Technical Assistant:** Helped prepare the proposals and ran the experiments for four funded SUST Research Centre projects: AS/2023/1/19, AS/2023/1/16 (2023–24); AS/2022/1/13, AS/2022/1/24 (2022–23).
 
-**Volunteer** — 2022 Safe Water Project, Sylhet and Gowainghat (2021–22); Survey on Plastic Waste Generation in Sylhet, ESDO (2020–21).
+---
+
+## <i class="fas fa-people-group"></i> Training and Service
+
+**Training:** Applications of Drone Technology in Civil Engineering, 12 h, Institution of Engineers, Bangladesh (September 2026); Design of RCC Structures to BNBC 2020, 72 h, Public Works Department, Bangladesh (December 2024).
+
+**Service:** Assistant General Secretary (2023–24) and Assistant IT Secretary (2022–23), Association of Civil and Environmental Engineering, SUST. Led logistics for the Silver Jubilee and exCEEd 2023. Vice President (2023–24) and Cultural Secretary (2021–23), Aaj Muktomancho, SUST. Ran theatre and scriptwriting workshops and led two community cultural events.
+
+**Volunteer:** 2022 Safe Water Project, Sylhet and Gowainghat (2021–22); Survey on Plastic Waste Generation in Sylhet, ESDO (2020–21).
 
 ---
 

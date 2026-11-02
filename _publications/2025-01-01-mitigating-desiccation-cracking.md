@@ -11,7 +11,7 @@ citation: 'Islam, S., Chowdhury, A. S., <b>Hasnat, N.</b>, Alam, Md. J. Bin, &am
 doi: '10.1007/s10706-025-03224-w'
 project: '/research-projects/desiccation-cracking/'
 bibtexurl: '/files/bib/islam2025mitigating.bib'
-role: 'Built the desiccation test setup and measured crack growth by image analysis in ImageJ and photogrammetry in Agisoft Metashape.'
+role: 'I built the desiccation test setup and measured the cracks from images in ImageJ and 3D models in Agisoft Metashape.'
 ---
 
 This study examines the effectiveness of polyester fiber and fly ash as additives for reducing desiccation-induced cracking in embankment soil. The research analyzes crack propagation using image analysis techniques and evaluates the mechanical performance improvements achieved through fiber-chemical additive inclusion.

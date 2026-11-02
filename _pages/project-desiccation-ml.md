@@ -9,64 +9,64 @@ author_profile: true
 
 ---
 
-## Research in Brief
+## <i class="fas fa-book-open"></i> Research in Brief
 
-The experimental desiccation work told me how much a given additive suppresses cracking in one soil, under one drying regime. It didn't tell me which variables are actually doing the work once you look across many soils, climates and treatments at once, and that is the question a practising engineer needs answered before choosing a fix.
+My lab work on cracking showed how much a given additive helped in one soil under one set of drying conditions. It didn't show which factors matter most across many soils, climates and treatments. That's what an engineer needs to know before picking a fix.
 
-So I compiled several hundred desiccation test specimens from published studies into one dataset. Each specimen is described by its soil (clay content and plasticity), the drying conditions (temperature and humidity), its wetting–drying history, the stage of drying, and the treatment applied, from raw soil through fiber reinforcement to biomineralization. Three measures of cracking are predicted separately: crack ratio, average crack width and the number of crack segments.
+So I collected several hundred desiccation test results from published studies into one dataset. Each result includes the soil (clay content and plasticity), the drying conditions (temperature and humidity), how many wetting and drying cycles it went through, the drying stage, and the treatment. The treatments range from raw soil to fiber and bio-mineralization. I predict three things separately: crack ratio, average crack width and the number of crack segments.
 
-The work runs in two steps. First, gradient-boosted tree models learn the relationship as accurately as the data allows. Then genetic-programming symbolic regression turns what those models learned into closed-form equations that can be evaluated by hand or in a spreadsheet, with no trained model needed.
+There are two steps. First, boosted tree models learn the patterns as well as the data allows. Then symbolic regression turns what the models learned into short equations that anyone can use by hand or in a spreadsheet.
 
 **Research Period:** June 2026 – Present &nbsp;|&nbsp; **Status:** Ongoing
 
 ---
 
-## Methodology
+## <i class="fas fa-diagram-project"></i> Methodology
 
-1. **Data compilation.** Desiccation test results gathered from published studies into a single, consistently formatted dataset, with duplicate and redundant descriptors screened out.
+1. **Collecting the data.** I gathered test results from published studies into one dataset and removed duplicate and repeated inputs.
 
-2. **Model training.** LightGBM, XGBoost and CatBoost, each tuned by grid search under 5-fold cross-validation, with native handling of the categorical inputs (drying stage and treatment type) instead of one-hot encoding. A random forest serves as the baseline. Outlier removal and target transformation are adopted only where they improve cross-validated accuracy.
+2. **Training models.** I trained LightGBM, XGBoost and CatBoost, tuned each one with grid search and 5-fold cross-validation, and used a random forest as the baseline. The models handle drying stage and treatment type directly instead of splitting them into dummy columns. I only removed outliers or transformed the outputs when it actually improved accuracy.
 
-3. **Evaluation.** Each crack measure is scored on a held-out test set, and the best model is selected separately for each one.
+3. **Testing.** I scored each crack measure on a held-out test set and kept the best model for each one.
 
-4. **Feature importance.** Permutation and gain importance identify which inputs each crack measure actually depends on.
+4. **Finding what matters.** I used permutation and gain importance to see which inputs each crack measure depends on.
 
-5. **Categorical factors.** The best model generates a numerical factor for each drying stage and each treatment class, from its partial dependence, so that categorical inputs can enter an equation as plain numbers.
+5. **Turning categories into numbers.** The best model gives each drying stage and treatment type a number, so they can go into an equation.
 
-6. **Symbolic regression.** Genetic programming fits one equation per crack measure, using only the most important inputs and the model-generated factors, with a parsimony penalty that keeps the equations short enough to read.
-
----
-
-## Key Findings
-
-- The gradient-boosted models improve on the random-forest baseline for every crack measure, and no single library wins on all three.
-- **Each crack measure is governed by a different driver.** How much of the surface cracks, how wide the cracks open and how many separate cracks form do not respond to the same variables, which is why lumping them into a single "cracking" index loses information.
-- For crack ratio, the closed-form equation keeps almost all of the accuracy of the best boosted model and clearly beats linear regression.
-- Crack width and crack segment count are harder to compress into a short equation, which says something about how nonlinear those two responses are.
-- The treatment applied matters, but less than soil and climate for most measures.
+6. **Writing the equations.** Symbolic regression fits one equation per crack measure using only the most important inputs. A penalty keeps the equations short.
 
 ---
 
-## Analysis
+## <i class="fas fa-lightbulb"></i> Key Findings
+
+- The boosted models beat the random forest for all three crack measures. No single model was best for all three.
+- **Each crack measure has a different main driver.** The things that decide how much of the surface cracks are not the same as the ones that decide crack width or crack count. So a single "cracking" number hides a lot.
+- For crack ratio, the equation is almost as accurate as the best model and much better than linear regression.
+- Crack width and crack count are harder to fit with a short equation. This suggests they depend on the inputs in more complex ways.
+- Treatment matters, but for most measures it matters less than the soil and the climate.
+
+---
+
+## <i class="fas fa-chart-line"></i> Analysis
 
 <div style="margin-bottom: 30px;">
 <h3>Equation Versus Model Accuracy</h3>
-<p>Accuracy of the closed-form equation and of linear regression on the held-out test set, shown relative to the best gradient-boosted model for each crack measure. For crack ratio, the equation gives up very little against the full model.</p>
+<p>How the equation and a plain linear regression compare with the best boosted model on the test set. For crack ratio, the equation is almost as accurate as the full model.</p>
 <img src="/images/research-projects/Desiccation_ML_Relative_Accuracy.png" alt="Relative accuracy of boosted model, closed-form equation and linear regression" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: Accuracy relative to the best gradient-boosted model, per crack measure</p>
 </div>
 
 <div style="margin-bottom: 30px;">
 <h3>What Drives Each Crack Measure</h3>
-<p>Permutation importance from the best model for each crack measure, with the inputs grouped by what they describe and ranked as dominant, secondary or minor. The dominant group changes from one crack measure to the next.</p>
+<p>Which groups of inputs matter most for each crack measure, based on permutation importance. The main factor is different for each one.</p>
 <img src="/images/research-projects/Desiccation_ML_Drivers.png" alt="Dominant, secondary and minor drivers of each crack measure" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 4px;">
 <p style="text-align: center; font-style: italic; color: var(--global-text-color-light); font-size: 0.9em;">Figure: Relative importance of each group of inputs, per crack measure</p>
 </div>
 
 ---
 
-## Why this matters
+## <i class="fas fa-route"></i> Why this matters
 
-This builds directly on the experimental side of my desiccation work. The laboratory studies measured how much fiber, fly ash and lime suppress cracking in haor embankment soil; this one asks which of those levers matter most once soil, climate and treatment are varied together, and gives the answer in a form that can be used without running a model.
+This builds on my lab work on cracking. Those studies measured how much fiber, fly ash and lime reduced cracking in haor embankment soil. This one asks which of those factors matter most when soil, climate and treatment all change, and gives the answer as equations you can use without running a model.
 
 Related: [Mitigating desiccation-induced cracking with fiber reinforcement and fly ash](/research-projects/desiccation-cracking/) and [remediation of desiccation-ridden embankment soil using waste plastic fiber, fly ash and lime](/research-projects/embankment-soil/).

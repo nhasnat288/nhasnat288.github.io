@@ -9,36 +9,38 @@ author_profile: true
 
 ---
 
-## Research in Brief
+## <i class="fas fa-book-open"></i> Research in Brief
 
-Flood-control embankments along haor wetlands in Tahirpur, Sunamganj (northeastern Bangladesh) suffer repeated desiccation-induced cracking that compromises structural integrity. This study develops a three-stage additive optimisation strategy — first waste plastic fiber (WPF, 0.5–2%), then fly ash (FA, 5–20%), then lime (2–8%) — to remediate the host soil. The optimum blend of **2% WPF + 15% FA + 6% Lime** delivers a **242.85% CBR increase**, **150% UCS gain**, **91.17% crack volume reduction**, and **83.54% surface cracking reduction**, while consolidation properties also improve (14.06% higher coefficient of consolidation, 27.17% lower compression index). Desiccation performance is quantified through ImageJ binary-image analysis and Agisoft Metashape digital elevation modelling (DEM).
+The flood embankments along the haor in Tahirpur, Sunamganj, crack every dry season, and the cracks weaken them. We tried to fix this soil by adding three materials one after another. First we added waste plastic fiber (0.5 to 2%), then fly ash (5 to 20%), and then lime (2 to 8%).
+
+The best mix was **2% fiber, 15% fly ash and 6% lime**. It raised CBR by **242.85%** and UCS by **150%**. It cut crack volume by **91.17%** and surface cracking by **83.54%**. Consolidation also improved. To measure the cracks, we used image analysis in ImageJ and 3D models from Agisoft Metashape.
 
 **Research Period:** 2022 – 2024 &nbsp;|&nbsp; **Status:** Manuscript under review at *Indian Geotechnical Journal* &nbsp;|&nbsp; **Affiliation:** Department of Civil and Environmental Engineering, SUST, Bangladesh
 
 ---
 
-## Key Findings
+## <i class="fas fa-lightbulb"></i> Key Findings
 
-- **Bearing capacity**: CBR rises from 2.10% (raw) to 7.20% at the optimum blend — a 242.85% increase that meets subgrade requirements for embankment construction.
-- **Compressive strength**: Unconfined compressive strength increases from 74 kPa to 185 kPa (150% gain) with progressive additive incorporation.
-- **Compaction response**: Maximum dry density decreases by 7.86% while optimum moisture content rises, consistent with flocculation and pozzolanic gel formation.
-- **Consolidation improvement**: Coefficient of consolidation increases by 14.06% and compression index decreases by 27.17%, indicating faster dissipation and reduced settlement.
-- **Crack suppression**: Crack volume drops by 91.17% and surface crack area by 83.54%, demonstrating effective control of desiccation distress under cyclic wetting–drying.
+- **CBR** went from 2.10% to 7.20%, which meets the subgrade requirement for embankments.
+- **UCS** went from 74 kPa to 185 kPa as we added each material.
+- **Maximum dry density** dropped by 7.86% and optimum moisture content went up. This fits with flocculation and pozzolanic reactions.
+- **Consolidation:** the coefficient of consolidation rose by 14.06% and the compression index fell by 27.17%. That means faster settlement and less of it.
+- **Cracking:** crack volume fell by 91.17% and surface crack area by 83.54% under repeated wetting and drying.
 
 ---
 
-## Experimental Analysis
+## <i class="fas fa-chart-line"></i> Experimental Analysis
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/research-projects/1fff365a-8828-4456-964c-12ccf4015c5d-1785843436122_image.png" alt="CBR bearing capacity results across three optimisation stages" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 5px;">
-  <p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 8px;"><em>Figure 1: CBR stress–penetration curves across three optimisation stages — WPF dosage selection (left), FA dosage selection (centre), and Lime dosage selection (right).</em></p>
+  <p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 8px;"><em>Figure 1: CBR curves at each stage: fiber dose (left), fly ash dose (centre) and lime dose (right).</em></p>
 </div>
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/research-projects/1f08d479-a8b5-4d8c-ab5c-aad948077c11-1785843441917_image.png" alt="UCS results across three optimisation stages" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 5px;">
-  <p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 8px;"><em>Figure 2: Unconfined compressive strength across three optimisation stages — WPF dosage selection (left), FA dosage selection (centre), and Lime dosage selection (right).</em></p>
+  <p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 8px;"><em>Figure 2: UCS at each stage: fiber dose (left), fly ash dose (centre) and lime dose (right).</em></p>
 </div>
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/images/research-projects/909fafed-9c41-4920-92fa-b900fcebd6ad-1785843459501_image.png" alt="Desiccation cracking reduction results" style="max-width: 100%; border: 1px solid var(--global-border-color); border-radius: 4px; padding: 5px;">
-  <p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 8px;"><em>Figure 3: Desiccation cracking metrics — crack volume and surface crack area reduction with progressive additive incorporation.</em></p>
+  <p style="font-size: 0.85em; color: var(--global-text-color-light); margin-top: 8px;"><em>Figure 3: Crack volume and surface crack area as each material is added.</em></p>
