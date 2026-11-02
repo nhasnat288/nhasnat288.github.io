@@ -5,7 +5,7 @@
 /* Thin strata stripe under the masthead */
 .masthead {
   border-bottom: none;
-  box-shadow: 0 3px 0 0 var(--geo-accent), 0 6px 0 0 var(--geo-accent-2);
+  box-shadow: 0 1px 0 0 var(--global-border-color);
 }
 
 .page__content h2, .archive h2 {
@@ -21,8 +21,8 @@
   margin: 2.2em 0 0.6em;
   padding: 0.9em 1.1em;
   background: var(--geo-soft);
-  border-left: 6px solid var(--geo-accent);
-  border-radius: 4px;
+  border-left: 3px solid var(--geo-accent);
+  border-radius: 2px;
   h2 { margin: 0; border: none; font-size: 1.45em; }
   p { margin: 0.25em 0 0; font-size: 0.88em; color: var(--global-text-color-light); }
 }
@@ -74,9 +74,10 @@
   font-size: 0.72em;
   line-height: 1.35;
   font-weight: 600;
-  color: var(--geo-on-accent);
-  background: var(--geo-accent);
-  border-radius: 999px;
+  color: var(--geo-accent);
+  background: transparent;
+  border: 1px solid var(--geo-accent);
+  border-radius: 3px;
 }
 
 /* News strip */
@@ -84,7 +85,7 @@
   list-style: none;
   margin: 0.5em 0 1.5em;
   padding: 0;
-  border-left: 3px solid var(--geo-accent-2);
+  border-left: 1px solid var(--global-border-color);
   li {
     position: relative;
     margin: 0 0 0.55em;
@@ -97,12 +98,12 @@
   li::before {
     content: "";
     position: absolute;
-    left: -6.5px;
     top: 0.55em;
-    width: 10px;
-    height: 10px;
+    width: 7px;
+    height: 7px;
     border-radius: 50%;
-    background: var(--geo-accent);
+    background: var(--geo-accent-2);
+    left: -4px;
   }
 }
 .news__date {
@@ -186,13 +187,15 @@
 }
 .card {
   background: var(--geo-card);
-  border-left: 4px solid var(--geo-accent);
+  border: 1px solid var(--global-border-color);
+  border-left: 3px solid var(--geo-accent);
   padding: 14px 16px;
   border-radius: 4px;
   strong { color: var(--geo-ink); }
   span { color: var(--global-text-color-light); font-size: 0.9em; }
 }
 .card--alt { border-left-color: var(--geo-accent-2); }
+.card, .person, .work-card { box-shadow: 0 1px 2px rgba(0,0,0,0.04); }
 
 .tag {
   display: inline-block;
@@ -229,7 +232,6 @@
   align-items: center;
   text-align: center;
   padding: 22px 18px 18px;
-  border-top: 4px solid var(--geo-accent);
   img { width: 140px; height: 140px; flex: 0 0 140px; }
   .person__links a { margin: 0 0.4em; }
 }
@@ -247,7 +249,7 @@
     flex: 0 0 92px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid var(--geo-accent);
+    border: 1px solid var(--global-border-color);
   }
 }
 .person__name { font-weight: 700; color: var(--geo-ink); line-height: 1.3; }

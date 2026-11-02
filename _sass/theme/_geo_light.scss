@@ -1,19 +1,19 @@
 /* GEO THEME - LIGHT (soil, clay and moss) */
-$primary-color              : #8a5a32;
+$primary-color              : #4b5d67;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
 $lighter-primary-color      : mix(#fff, $primary-color, 90%);
-$background                 : #f7f4ee;
-$background-light           : #fbf9f5;
+$background                 : #fcfcfa;
+$background-light           : #ffffff;
 $background-lighter        : #ffffff;
-$text                      : #2f2a24;
-$text-muted                : #6b6155;
-$link                      : #8f4a1c;
+$text                      : #22272b;
+$text-muted                : #5f6770;
+$link                      : #7c4a2d;
 $link-dark                 : mix(#000, $link, 25%);
 $link-light                : mix(#fff, $link, 25%);
-$footer                    : #ece3d3;
-$border                    : #e3d8c5;
+$footer                    : #f1efea;
+$border                    : #e4e1da;
 $border-light              : mix(#fff, $border, 50%);
 
 /* Color codes used for the site */
@@ -35,11 +35,11 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Light theme for the site */
 :root {
-  --geo-accent                        : #9c5a2a;
-  --geo-accent-2                      : #5d7240;
-  --geo-soft                          : rgba(156, 90, 42, 0.09);
-  --geo-card                          : #fbf8f3;
-  --geo-ink                           : #3d3328;
+  --geo-accent                        : #7c4a2d;
+  --geo-accent-2                      : #4b5d67;
+  --geo-soft                          : rgba(75, 93, 103, 0.06);
+  --geo-card                          : #ffffff;
+  --geo-ink                           : #1f2a30;
   --geo-on-accent                     : #ffffff;
   --global-base-color                 : #{$primary-color};
   --global-bg-color                   : #{$background};

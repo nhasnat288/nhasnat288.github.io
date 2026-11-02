@@ -2,22 +2,22 @@
    DIRT THEME - DARK VERSION
    ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #d9935a;
+$primary-color              : #c9a27e;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
 $lighter-primary-color      : mix(#fff, $primary-color, 90%);
-$background                 : #1e1a16;
-$background-light           : #2a251f;
-$background-lighter         : #3a332b;
-$text                      : #e9e0d3;
-$text-muted                : #bfb3a3;
-$link                      : #e3ab78;
-$link-dark                 : #f0c49c;
-$link-light                : #c98f5c;
-$footer                    : #2a251f;
-$border                    : #3e362d;
-$border-light              : #544a3e;
+$background                 : #17191c;
+$background-light           : #1f2226;
+$background-lighter         : #2a2e33;
+$text                      : #e4e2dd;
+$text-muted                : #a9adb2;
+$link                      : #d4ae8a;
+$link-dark                 : #e8c9aa;
+$link-light                : #c09a76;
+$footer                    : #1f2226;
+$border                    : #2f343a;
+$border-light              : #3d434a;
 
 /* Color codes used for the site */
 $danger-color               : #d35c5c;
@@ -38,12 +38,12 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
-  --geo-accent                        : #d9935a;
-  --geo-accent-2                      : #a7bd84;
-  --geo-soft                          : rgba(217, 147, 90, 0.13);
-  --geo-card                          : #27221c;
+  --geo-accent                        : #c9a27e;
+  --geo-accent-2                      : #9fb1bb;
+  --geo-soft                          : rgba(255, 255, 255, 0.04);
+  --geo-card                          : #1f2226;
   --geo-ink                           : #e9e0d3;
-  --geo-on-accent                     : #1e1a16;
+  --geo-on-accent                     : #17191c;
   --global-base-color                 : #{$primary-color};
   --global-bg-color                   : #{$background};
   --global-footer-bg-color            : #{$footer};
