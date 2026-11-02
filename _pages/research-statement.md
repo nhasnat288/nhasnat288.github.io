@@ -19,7 +19,7 @@ I grew up in Sunamganj. The flood embankments there crack badly in the dry seaso
 
 ## <i class="fas fa-laptop-code"></i> How I started using models
 
-After graduating I started teaching slope stability. I was also reading machine learning papers on the same topic, and many of the models broke basic soil mechanics. Some predicted that a slope gets safer as it gets taller. So I built a Bayesian physics-informed network that can't make that kind of mistake. I trained it partly on 3,000 PLAXIS 2D runs that I automated with Python. I'm now using gradient boosting and symbolic regression to find what drives desiccation cracking.
+After graduating I started teaching slope stability. I was also reading machine learning papers on the same topic, and many of the models broke basic soil mechanics. Some predicted that a slope gets safer as it gets taller. So I built a Bayesian physics-informed network that can't make that kind of mistake. I automated 3,000 PLAXIS 2D runs with Python and used 2,000 of them to pretrain it. I'm now using gradient boosting and symbolic regression to find what drives desiccation cracking.
 
 ## <i class="fas fa-compass"></i> What I'd like to work on next
 
